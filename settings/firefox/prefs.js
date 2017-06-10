@@ -202,6 +202,7 @@ user_pref("toolkit.startup.max_resumed_crashes", -1);
 user_pref("browser.firstrun.show.localepicker", false);
 user_pref("browser.firstrun.show.uidiscovery", false);
 user_pref("extensions.showMismatchUI", false); // compatibility check
+user_pref("datareporting.policy.firstRunURL", "");
 
 // Performance
 user_pref("dom.max_script_run_time", 0);
