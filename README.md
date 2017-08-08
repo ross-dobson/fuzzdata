@@ -1,4 +1,4 @@
-![Logo](http://people.mozilla.com/~cdiehl/img/fuzzdata.png)
+![Logo](https://github.com/posidron/posidron.github.io/raw/master/static/images/fuzzdata.png)
 
 Fuzzing resources for feeding various fuzzers with input and configuration settings.
 
