@@ -1,9 +1,4 @@
 // Firefox Preferences
-//
-// https://raw.githubusercontent.com/mozilla/gecko-dev/inbound/modules/libpref/src/init/all.js
-// https://raw.githubusercontent.com/mozilla/gecko-dev/inbound/browser/metro/profile/metro.js
-// https://raw.githubusercontent.com/mozilla/gecko-dev/inbound/mobile/android/app/mobile.js
-// https://raw.githubusercontent.com/mozilla/gecko-dev/inbound/b2g/app/b2g.js
 
 //
 // Features
@@ -188,6 +183,16 @@ user_pref("dom.IntersectionObserver.enabled", true);
 // PDFium
 user_pref("pdfium.enabled", true);
 
+// WebPayments
+user_pref("dom.payments.request.enabled", true);
+
+// WebAuthn
+user_pref("security.webauth.webauthn", true);
+user_pref("security.webauth.webauthn_enable_softtoken", true);
+user_pref("security.webauth.webauthn_enable_usbtoken", false);
+user_pref("security.webauth.u2f", true);
+user_pref("security.webauth.u2f_enable_softtoken", true);
+user_pref("security.webauth.u2f_enable_usbtoken", false);
 
 //
 // Behaviour Settings
