@@ -222,17 +222,17 @@ user_pref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false);
 
 // WebRTC
 //   Almost mandatory
-user_pref("media.peerconnection.enabled", true)
-user_pref("media.peerconnection.identity.enabled", true)
-user_pref("media.peerconnection.dtmf.enabled",true)
-user_pref("media.peerconnection.video.h264_enabled", true)
-user_pref("permissions.default.camera", 1)
-user_pref("permissions.default.microphone", 1)
-user_pref("media.navigator.permission.disabled", true)
-user_pref("media.peerconnection.turn.disable", false)
+user_pref("media.peerconnection.enabled", true);
+user_pref("media.peerconnection.identity.enabled", true);
+user_pref("media.peerconnection.dtmf.enabled",true);
+user_pref("media.peerconnection.video.h264_enabled", true);
+user_pref("permissions.default.camera", 1);
+user_pref("permissions.default.microphone", 1);
+user_pref("media.navigator.permission.disabled", true);
+user_pref("media.peerconnection.turn.disable", false);
 //   Recommended
-user_pref("media.peerconnection.remoteTrackId.enabled", true)
-user_pref("media.getusermedia.screensharing.enabled", true)
-user_pref("media.getusermedia.screensharing.allowed_domains", "localhost")
-user_pref("media.getusermedia.browser.enabled", true)
-user_pref("media.getusermedia.audiocapture.enabled", true)
+user_pref("media.peerconnection.remoteTrackId.enabled", true);
+user_pref("media.getusermedia.screensharing.enabled", true);
+user_pref("media.getusermedia.screensharing.allowed_domains", "localhost");
+user_pref("media.getusermedia.browser.enabled", true);
+user_pref("media.getusermedia.audiocapture.enabled", true);
