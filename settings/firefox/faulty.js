@@ -49,21 +49,6 @@ user_pref("media.track.enabled", true);
 user_pref("media.webvtt.enabled", true);
 user_pref("media.webvtt.regions.enabled", true);
 
-// WebRTC
-user_pref("media.navigator.enabled", true);
-user_pref("media.navigator.permission.disabled", true);
-user_pref("media.peerconnection.enabled", true);
-user_pref("media.peerconnection.video.h264_enabled", true);
-user_pref("media.peerconnection.aec_enabled", true);
-user_pref("media.getusermedia.aec_enabled", true);
-user_pref("media.peerconnection.agc_enabled", false);
-user_pref("media.getusermedia.agc_enabled", false);
-user_pref("media.peerconnection.noise_enabled", false);
-user_pref("media.peerconnection.identity.enabled", true);
-user_pref("media.peerconnection.default_iceservers", '[{"url": "stun:23.21.150.121"}]');
-user_pref("media.peerconnection.use_document_iceservers", true);
-user_pref("media.webrtc.debug.log_file", "");
-
 // WebSocket
 user_pref("network.websocket.enabled", true);
 user_pref("network.websocket.allowInsecureFromHTTPS", true);
@@ -235,3 +220,19 @@ user_pref('browser.tabs.remote.autostart.2', true);
 user_pref("accessibility.ipc_architecture.enabled", true);
 user_pref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false);
 
+// WebRTC
+//   Almost mandatory
+user_pref("media.peerconnection.enabled", true)
+user_pref("media.peerconnection.identity.enabled", true)
+user_pref("media.peerconnection.dtmf.enabled",true)
+user_pref("media.peerconnection.video.h264_enabled", true)
+user_pref("permissions.default.camera", 1)
+user_pref("permissions.default.microphone", 1)
+user_pref("media.navigator.permission.disabled", true)
+user_pref("media.peerconnection.turn.disable", false)
+//   Recommended
+user_pref("media.peerconnection.remoteTrackId.enabled", true)
+user_pref("media.getusermedia.screensharing.enabled", true)
+user_pref("media.getusermedia.screensharing.allowed_domains", "localhost")
+user_pref("media.getusermedia.browser.enabled", true)
+user_pref("media.getusermedia.audiocapture.enabled", true)
