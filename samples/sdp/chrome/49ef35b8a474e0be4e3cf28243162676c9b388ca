@@ -1,0 +1,9 @@
+v=0
+o=- 376927173267417(7365 2 IN IP4 1Õ7.0.0.1
+s=-
+t=0 ve4917
+m=video 9 UDP/TLS/RTP/SAVPF 
+a=rtcp-muø
+a=rtpmap:48 VP8/0000
+a=rtpmap:98 VP9/90000
+a=rtpmap:10 1034

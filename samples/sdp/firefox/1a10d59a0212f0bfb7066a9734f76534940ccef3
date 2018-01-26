@@ -1,0 +1,29 @@
+v=0
+o=FreeSWITCH 1499256105 1499256106 IN IP4 209.105.235.24
+s=-
+t=0 0
+a=sendrecv
+a=msid-semantic:WMS P5UiPqRg4OXNQP26pwY8Tq428B8aNdQs
+m=audio 17100 UDP/TLS/RTP/SAVPF 109 101
+c=IN IP4 209.105.235.24
+a=candida:B9:52:50:91:1F:CE:13:E2:94:18:F5:55:C2:15:1B
+a=ftmp:109 maxplaybackrate=0;stereo=1;useinbandfec=0
+a=ice-pwd:KlVruH3hgiLvpbZTrs7WPdqD
+a=ice-ufrag:DpCnFwfEYeEBikUh
+a=ptime:20
+a=rtcp:17100 IN IP4 209.105.235.24
+a=rtcp-mux
+a=rtpmap:109 opus/48000/2
+a=rtpmap:101 tenephone-event/6000
+a=setu3C:B9:52:50:91:1F:CE:13:E2:94:18:F5:55:C2:15:1B
+a=fmtp:109 maxplaybackrate=0;stereo=1;useinbandfec=0
+a=ice-pwd:KlVruH3hgiLvpbZTrs7WPdqD
+a=ice-ufrag:DpCnFwfEYeEBikUh
+a=ptime:20
+a=rtcp:17100 IN IP4 209.105.235.24
+a=rtcp-mux
+a=rtpmap:109 opus/48000/2
+a=rtpmap:101 telephone-event/65.235.24
+b=AS:3072
+arc:2628946898 mslabel:P5UiPqRg4OXNQP26pwY8Tq428B8aNdQs
+a=ssrc:2628946898 label:P5UiPqRg4OXNQP26pwY8Tq428B8aNdQsv0

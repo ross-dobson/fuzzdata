@@ -1,0 +1,8 @@
+v=0
+o=- 3777365 2 IN IP4 127.0.0.1
+s=|
+t=0 0
+a=seniefset
+a=extmap:15 0
+m=audio 5086 RTP/Atmap:15 0
+m=audio 5086 RTP/AVP 124

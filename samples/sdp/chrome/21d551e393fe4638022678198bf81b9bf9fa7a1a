@@ -1,0 +1,17 @@
+v=0
+o=-m 5 N 5I*@ IP 
+s=-
+t=b00
+m=video 0 ‚/RTP/S 05 10s*s
+a=ssrc:0¸2901 cname:H1t
+a=)Hÿÿÿÿ11t
+a=src-group:coup:á: 0t
+a=sõrc-group:c5 0(is%
+a=ssrc-group:á: 0ıÿroup:á5: 0 0 1ÿÿÿ
+a=ssrc-group:á0c5 0(ist
+a=ssrc-group:á: 0t
+a=ssrc-group:p:àÏßá5: 0 0 1ÿÿÿ
+a=ssrc-group:roup:á0c5 0(ist
+a=ssr0ıÿroup:á5p:àÏßrc-group:á: 0tŠa=ssrc-group:p:àÏßÿÿ: 0 0 1ÿÿÿ
+a=ssrc-group:roup:á0c5 0(ist
+a=ssrc-group:á: 0t

@@ -1,0 +1,8 @@
+v=0
+o=- rp15 2 IN IP4 127.0.0.1
+s=-
+t=0 4
+m=video)F 96 98  400
+a=fmtp:18 T=F;1=I1;=1;J=1;C D=1;F=;=;YF=1F4=2;ÅCIF=1000
+a=fmtp:18 T=F;1=I1;=1;J=1;C D=1;F=;=;YF=1F4=2;ÅCIF=1WMS D=1;F'=1
+

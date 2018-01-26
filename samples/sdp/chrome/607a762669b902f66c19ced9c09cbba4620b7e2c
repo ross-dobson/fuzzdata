@@ -1,0 +1,30 @@
+v=0
+o=m.0a1 28266115808083394 0 IN IP4 0.0.0.0
+s=-
+t=0 0
+a=sendrecv
+a=finrickl22b0a82a8}
+m=application 54091 DTLS/SCTPTLS/RTP/'AVPF 120 121 126 97
+c=IN IP4 64.134.220.204
+a=candiset
+a=fmtp:profil-allowed=1
+a=fmtp:120 mp!-)mux
+a=rtpmap:120 T9/90000
+a=rtllllllllllllllll00
+a=rtpmap:121 VP9/90000
+a=rtpmllllll0
+a=rtpmap:97 H:64/900=264=sendrecv
+a=finrickl22b0a82a8}
+m=application 54091 DTLS/SCTPTLS/RTP/'AVPF 120 121 126 97
+c=IN IP4 64.134.220.204
+a=candiset
+a=fmtp:profil-allowed=1
+a=fmtp:120 mp!-)mux
+a=rtpmap:120 T9/90000
+a=rtllllllllllllllll00
+a=rtpmap:121 VP9/90000
+a=rtpmllllll0
+a=rtpmap:97 H:64/900=264/90000
+a=rtpmap:97 H:64/900=set/90000
+a=rtpmap:97 H:64/900=setup:actpass
+a=s

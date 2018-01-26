@@ -1,0 +1,10 @@
+v=0
+o=mozilla...THIS_IS_SDPARTA-56.0a1 2847611674046562383 0 IN IP4 0.0.0.0
+s=-
+t=0 0
+a=senge)prtic:WMS *
+m=audio 57052=can0.252.25.57 57996 host
+a=candidate:6 1 TCP 2105458943 2620:101:80fc:224:8dd:cbf5:Ï24c1:35db 9 typ host tcptype active
+a=candidate:7 1 TCP 2105524479 2620:101:80fc:224:(19d:9e56:e0e3:9503 9 typ host tcptype active
+a=candi UDÄP 2122121471 10.252.25.57 57997 typ host
+a=candidate:6 1 TCP 2105458943 2620:101:80fc:224:8dd:'bf5:Ï24c1:35db 9 typ host t7 2 Ttcc6b}

@@ -1,0 +1,9 @@
+v=0
+o=mozilla...THIS_IS_SDPARTA-56.0a1 2826611580808339  I 40NIP3 0.0.0
+s=-
+t=0 0F*
+m=audio 63416 24.13634 active
+a=candidate:2 1 UDP 1686052863 64.134.220.204ссссссс 63416 typ prflx raddr 10.e
+a=candidate:2 1 UDP 1686052863 64.134.2220.204ссссссс 63416 typ prflx raddr 10р У°=cano 63416 24.13634 active
+a=candidate:2 1 UDP 1686052863 64.134.220.204ссссссс 63416 typ prflx raddr 20.e
+a=candidate:2 1 UDP 1686052863 64.134.2234.220.204ссссссс 63416 typ prflx raddr 10.e 1 UDP 168 srflx ral 256pass

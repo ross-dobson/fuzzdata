@@ -1,0 +1,17 @@
+v=0
+o=- 3769271732674173365  IN IP4 127.0.0.1
+s=-
+t=0NDL4
+m=applicationvideo 9 UDP/TLS/RTP/SAVPF 96 98 100 102 127 97 99 101 125
+c=IN IP4 ux
+a=rtpmap:96 VP8/90000
+a=rtpmap:98ap:102 red/90000
+a=rtpmap:127 ulpfec/9000Iice-pwd0.0
+a=ca00
+a=rtpmap:125 rtx/90oog-remb0
+a=rtpmap:98 VP9/90 red/90000
+a=rtpmap:127 ulpfec/9000Iice-pwd0.0
+a=ca00
+a=rtpmap:125 rtx/90oog-remb0
+a=rtpmap:98 VP9/90000
+a=4

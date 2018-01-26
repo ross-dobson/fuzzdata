@@ -1,0 +1,114 @@
+v=0
+o=Mozilla-SIPUA 2208 0 IN IP4 0.0.0.0
+s=SIP Call
+c=IN IP4 192.168.0.71
+t=0 0
+m=audio 5086 RTP/AVP 125 0 8 124 101
+m=audio 0 PRV ATP/96 !=rtpmap:96 M®4A-LATM/24000/1 a=fmtp:96 profile-level-id=15;object=2;cpresent=0;config=400026103FC0
+a=cry'pto:1 AES_CM_128_HMAC_SHA1_80 inline:PS1uQCVeeCFCanVmcjkpPywjNWhcYD0mXXtxaVBR|2^20|1:32
+a=orient:portrait
+a=sendrecv
+a=rtpmap:126 Speex/16000/1
+a=fmtp:125 sr=16000,mode=any
+a=rtpmap:0 PCMU/8000/1
+a=rtpmap:8 PCMA/8000/1
+a=rtpmap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:9Ìßprofile-lev´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ´´´´´´´´´´´´´´´el-id=17; mode=AAC-hdddddddddddddddddddddddddddddddddddddddddddddddddddbr; config=1208; sizeLength=ÿÿÿÿÿÿ´´´´´´´´´´´´´´´el-id=17; mode=AAC-hbr; config=1208; sizeLength=13; index4 sr=8000,mode=any
+a=rtp/1
+a=rtpmap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profilemap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profile-lev´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´=´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´el-id=16; mode=AAC-hbr; config=1208; sizeLength=13; indexLength=3; indexDeltaLength=3;
+a=rtpm*******************************************************ap:96 mpeg4-generic/44100/2
+a=fmtÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃp:124 sr=8000,mode=any
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-************************ap:96 mpeg4-generic/44104100/2
+a=fmtp:124 sr=8000,mode=any
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-************************ap:96 mpeg4-generic/44100/2
+a=fmtp:124 sr=8000,mode=any
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-16,32,313; index4 sr=8000,mode=any
+a=rtp/1
+a=rtpmap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profile´l´´v-e´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´el-id=17; mode=AAC-hbr; config=1208; sizeLength=13; index4 sr=8000,mode=any
+a=rtp/1
+a=rtpmap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profile´l´´v-e´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´el-id=16; mode=AAC-hbr; config=1208; sizeLength=13; indexLength=3; indexDeltaLength=3;
+a=rtpm*******************************=any
+a=rtp/1
+a=rtpmap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profile-lev´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´=´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´el-id=16; mode=AAC-hbr; config=1208; sizeLength=13; indexLength=3; indexDeltaLength=3;
+a=rtpm*******************************************************ap:96 mpeg4-generic/4´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´fmtp:124 sr=8000,mode=any
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-************************ap:96 mpeg4-generic/44100/2
+a=fmtp:124 sr=8000,mode=any
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-16,32,313; index4 sr=8000,mode=any
+a=rtp/1
+a=rtpmap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profile´l´´v-e´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´el-id=17; mode=AAC-hbr; config=1208; sizeLength=13; index4 sr=8000,mode=any
+a=rtp/1
+a=rtpmap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profile´l´´v-e´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´el-id=16; mode=AAC-hbr; config=1208; sizeLength=13; indexLength=3; indexDeltaLength=3;
+a=rtpm*******************************=any
+a=rtp/1
+a=rtpmap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profile-lev´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´=´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´el-id=16; mode=AAC-hbr; config=1208; sizeLength=13; indexLength=3; indexDeltaLength=3;
+a=rtpm*******************************************************ap:96 mpeg4-generic/4´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ´´´´´´´´´´´´´´´el-id=17; mode=AAC-hbr; config=1208; sizeLength=13; index4 sr=8000,mode=any
+a=rtp/1
+a=rtpmap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profilemap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profilee´´vl´-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´=´´´´´r=8000,mode=any
+a=rtp/1
+a=rtpmap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profilemap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profilee´´vl´-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´=´´´´´´´´´´´´´˜´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´el-id=16; mode=AAC-hbr; confiÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃp:124 sr=8000,mode=any
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-************************ap:96 mpeg4-generic/44104100/2
+a=fmtp:124 sr=8000,mode=any
+a=rtpmap:101 telephéone-event/8000
+a=fmtp:101 0-************************ap:96 mpeg4-gene´´´´´´´´´´´´ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ´´´´´´´´´´´´´´´el-id=17; mode=AAC-hbr; config=1208; sizeLength=13; index4 sr=8000,mode=any
+a=rtp/1
+a=rtpmap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profilemap:124 Speex/8000/1
+a=control:trackID=
+a=fmtp:96 profilee´´vl´-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´1 UDP 8331263 66.114.175.89 8514 typ relay raddr 66.114.175.89 rport 8514
+a=candidate:2 2 UDP 8331262 66.114.175.89 8514 typ relay raddr 66.114.175.89 rport 8514
+a=recvonly
+a=end-of-candidates
+a=extmap:1 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=extmap:2 urn:ietf:params:rtp-hdrext:toffset
+a=fmtp:120 max-fs=12288;max-fr=60
+a=fmtp:121 max-fs=12288;max-fr=60
+a=fmtp:126 profile-level-id=42e01f;level-asymmetry-allowed=1;packetization-mode=1
+a=fmtp:97 profile-level-id=42e01f;level-asymmetry-allowed=1
+a=ice-pwd:ef52bd61dcad2e8d742b464d4eaa9403
+a=ice-ufrag:0-05e1241f
+a=mi00/2
+a=fmtp:124 sr=8000,mode=any
+a=rtpmap:101 pelephone-event/8000
+a=fmtp:101 0-16,32,36
+m=video 8000/±2 RTP/AVP /90000
+a=fmtp:114 profile-level-iv=0
+o=- 3336451674314513185 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=sendrecv
+d=5a
+=grd-3fbd-498e-8b13-d5f250080534
+a=ssrc:1829570133 mslabel:0eff693000
+a

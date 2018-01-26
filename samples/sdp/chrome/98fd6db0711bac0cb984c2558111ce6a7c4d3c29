@@ -1,0 +1,10 @@
+v=0
+o=ziUA 2208 0 IN IP4 -
+s=WI.70
+t=1
+m=audio 0 PRV:1( D
+a=fmtp:0(5( AT0
+a=fmtp:17( D=
+a=fmtp:1( D
+a=fmtp:05( D=
+a=fmtp:2( F=1;F=

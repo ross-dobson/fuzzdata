@@ -1,0 +1,13 @@
+v=0
+o=FrrelayZCH 14=9256105 1499256106 IN IP4 209.105.235.24
+s=-
+t=0 0
+a=sendrecv
+a=msid-semantic:WMh
+a=rtb:10
+a=sendr^cv
+a=msid-semantic:WMh
+a=p:active
+a=sÿÿsrc:262cp:22676 INv
+a=msid-semantic:WMh
+a=rtcpsv0

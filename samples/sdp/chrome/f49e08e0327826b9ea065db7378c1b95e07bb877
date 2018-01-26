@@ -1,0 +1,11 @@
+v=0
+o=T 5 IN ÿ  
+s=-
+t==-
+t=8}
+m=application 6 DTLS/SCTP 
+a=sctp-port. 2
+a=}
+m=application 6 DTLS/SCTP 
+a=sctp-port. 2
+t

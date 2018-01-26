@@ -1,0 +1,10 @@
+v=0
+o=- 3769271732674177365 2 IN IP4 127.0.0.1
+s=-
+t=1 0
+a=se aud0de8
+m=audio 9 11 
+a=setup:actpass
+a=ssrc:1829570134 cnamap:125 rtx/90000
+a=setup:actpass
+a=ssrÿÿÿÿf250080534

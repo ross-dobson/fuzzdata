@@ -1,0 +1,9 @@
+v=0
+o=- 3769271732674177365 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=sendrecv
+a=group:BUNDLE audio video
+a=BUNDLE audio video
+a=msid-semantic:WMS 0eff6933-ea39-4761-9730-30c656cb0de8
+m=audio 9 UDP/TLSRTP/FA1 103 1047 

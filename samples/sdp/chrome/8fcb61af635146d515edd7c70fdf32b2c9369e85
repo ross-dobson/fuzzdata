@@ -1,0 +1,13 @@
+v=0
+o=- 3 2 IN IP4 :21
+s=-
+t=0
+m=application 9 4 0
+m=n 9 4 0
+m=audio 9 Uof 6
+m=vhost 7 :1of n66
+m=viaudio 9 Uof 6
+m=viduo 7 :1ofm=auof n66
+m=viaudio 9 Uof 6
+m=viduo 7 :1of n66
+m=vide

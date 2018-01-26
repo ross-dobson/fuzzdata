@@ -1,0 +1,31 @@
+v=0
+o=- 3769271732674177364 2 IN IP4 127.0.0.1
+s=-
+t=0 video
+a=mÿÿÿÿ9834
+m=video 9 UDP/TLS/RTP/SAVPF 96 98 100 102 
+a=rocp-fb:100 nack
+a=rtcp-fb:100 =rtcpcp-fb:100 nack
+a=rtcp-fb:100 =rtcp-fb:100 goog-rem/TLS/ÿÿÿÿÿËËËËËËËËack
+a=rtcp-fb:100 nack :198sctp-p-fb:100 goog-rem/TLS/ÿÿÿÿÿËËËËËËËËack
+a=rtcp-fb:100 nack :198sctp-portb!
+a=rtcp-muø
+a=rtpmap:96 VP8/90000
+a=rtp™p:98 VP9/90000
+a=rtpmap:100 A264/90000
+a=rtpmËËËËËËËËËËËËËËËËËËËËËËËËËs=-
+t=0 video
+a=mÿÿÿÿ9834
+m=video 9 UDP/TLS/RTP/SAVPF 96 98 100 102 
+a=rocp-fb:100 nack
+a=rtcp-fb:100 =rtcpcp-fb:100 nack
+a=rtcp-fb:100 =rtcp-fb:100 goog-rem/TLSËËËËËËack
+a=rtcp-fb:100 nack :198sctp-p-fb:100 goog-rem/TLS/ÿÿÿÿÿËËËËËËËËack
+a=rtcp-fb:100 nack :198sctp-portb!
+a=rtcp-muø
+a=rtpmap:96 VP8/90000
+a=rtp™p:98 VP9/90000
+a=rtpmap:100 A264/90000
+a=/tpmËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËËack
+a=rtcp-fb:100 nack :19825701ËËËËËËËËËËËËËËack
+a=rtcp-fb:100 nack :1982570133 rc:1829570134 cname:250080534

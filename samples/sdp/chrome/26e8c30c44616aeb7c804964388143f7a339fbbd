@@ -1,0 +1,9 @@
+v=0
+o=- 37692717377365 2 IN IP4 127.0.0.1
+s=-
+t=0 -02
+a=extmap:6U6.81 rporme
+a=extmap:4 urn02
+a=extmap:6 h
+m=video 9 UDP/TRTP/ 125-30834
+m=video 9 UDP/TRTP/ 125-30c628c534

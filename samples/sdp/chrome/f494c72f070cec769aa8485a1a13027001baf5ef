@@ -1,0 +1,11 @@
+v=0
+o=mo.l.azli.THIS_IS_ 2826611580808339 NI0 4 IP4 0.0.0
+s=-
+t=0 0F*
+m=audio 6.136341ÿÿÿÿtyp prflx radr 10.e radr 10.e
+a=candidate:2 1 UDP 163 64.134.220.204 63,16 typ srflx 6p
+a=candidate:2 1 UDP 1686052863 64.134.220.204 63416 typ prflx radr 10.e
+a=candidat
+a=candidate:2 1 UDP 163 64.134.220.204 63416 typ srflx 6p
+a=candidate:2 1 UDP 1686052863 64.134.220.204 63416 typ prflx radr 10.e
+a=candidate:2 1 UDP 3372105726 64.134.220.204 6351³ typ srflx raddrÿÿ0.l 256pass

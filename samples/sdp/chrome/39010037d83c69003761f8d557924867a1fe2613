@@ -1,0 +1,12 @@
+v=0
+o=* 65*   8 1
+s=
+t=5ât=:
+m=audio 9I  12 06! 1o 0o 04
+a=rtcp-fb:* :-08
+a=rtcp-fb:* :**2! 1o o 04
+a=rtcp-fb:* :-08
+a=rtcp-fb:* :**2! 1o  o 04
+a=rtc o 04
+a=rtcp-fb:* :-07
+a=rtcp-fb:* :** e

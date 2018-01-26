@@ -1,0 +1,17 @@
+v=0
+o=- 376927173267365 2 IN IP4 127.0.0.1
+s=-
+t=0cvnmxtmap:4 urn:iefset
+a=extmap:3 ht*
+a=extmap:6 Vpldrecvv
+a=tensirportons;-0*
+a=extmap:6 Vpldrecvv
+a=extmap:0 ue-c;-(0
+a=extmap:6 httwww.wpldrecÊv
+a=extmap:3 urn:iefset
+a=extmap:3 httpø––ààú—êrg/ex
+a=etmap:5 http34
+m=video 9 UDP/TLS/RTP/SAVPF 
+m=audio 5086 RTP/AVP 125.16.80.71
+t=0 0
+m=audio 5086 RTP/AVP 125 0 8 1

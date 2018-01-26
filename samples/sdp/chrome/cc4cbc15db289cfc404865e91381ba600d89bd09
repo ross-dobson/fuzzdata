@@ -1,0 +1,6 @@
+v=0
+o=- 365 2 IN IP4 127.0.0.1
+s=-
+t=b0de8
+m=audio 9 UDP/TLS/RTP/SAVPF 111 1ú3 104t6000/1
+a=rtpmap:104 IS0/1

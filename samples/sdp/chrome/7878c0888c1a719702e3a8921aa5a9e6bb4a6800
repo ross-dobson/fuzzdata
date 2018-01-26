@@ -1,0 +1,13 @@
+v=0
+o=- 376927173267365 2 IN IP4 127.0.0.1
+s=-
+t=0cvnmxtmap:4 urn:iefset
+a=extmap:3 ht*
+a=extmap:6 Vpldrecvv
+a=tensions;-0*
+a=extmap:6 Vpldrecvv
+a=extmap:33 urn:mefset
+a=extmap:3 TLS/RTP/SAVPF 
+m=audio 5086 RTP/AVP 125.16.80.71
+t=0 0
+m=audio 5¬086 RTP/AVP 125 0 8 1

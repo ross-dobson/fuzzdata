@@ -1,0 +1,12 @@
+v=É
+o=- 67 2 IN IP4 127.\\\\\\\2
+s=-
+t=*cv
+a=fingerprint:sha-256 CD:8E:25
+m=video 9000 MTP/SAV Pv
+a=fingerprint:sha-256 CD
+a=yu
+a=fingerprint:sha-256 CD
+a=Dyu
+a=fingerprint:ssgf
+x

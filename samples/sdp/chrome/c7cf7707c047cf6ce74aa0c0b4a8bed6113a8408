@@ -1,0 +1,52 @@
+v=0
+o=- 376927173267t17637ÿÿ5 2 IN IP1 427.0.0.5
+s=-
+t=5a=senda5-f57d;f0e9834
+m=video 9 UDP/TLS/RTP/:AVPF 95 98 100 102 12=0
+o=- 376927173267t17637ÿÿ5 2 IN IP1 498 100 102 127 97 99 100 125
+c=IN IP4 0.0.0.0ö£=cfb:97 naccm fiack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷ÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!nack pl'
+a==rtcp-"b:1126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿ÷ÿÿÿÿÿÿÿÿ52!naceo 9 UDP/TLS/RTP/:AVPF 95 98 100 10ccm fiack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷ÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿûÿÿÿ52!nack pl'
+a==rtcp-"]:1126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!naceo 9 UDP/TLS/RTP/:AVPF 95 98 100 102 127 97 99 100 125
+c=IN IP4 0.0.0.0ö£=cfb:97 naccm fiack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷ÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:0ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!nack ==rtcp-"b:1126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!nack pli
+a=ÿÿÿÿÿÿÿÿÿÿÿÿ:97 naccm! fiack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿcnameÿÿÿ÷ÿÿÿÿÿÿ.0.0.0ö£=cfb:97 naccm fiack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷ÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!nack pl'
+a==rtcp-"b:1126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿ÷ÿÿÿÿÿÿÿÿ52!naceo 9 UDP/TLS/RTP/:AVPF 95 98 100 10ccm fiack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷ÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿûÿÿÿ52!nack pl'
+a==rtcp-"]:1126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!naceo 9 UDP/TLS/RTP/:AVPF 95 98 100 102 127 97 99 100 125
+c=IN IP4 0.0.0.0ö£=cfb:97 naccm fiack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷ÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:0ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!nack pl'
+a==rtcp-"b:1126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!nack pli
+a=ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿrtcp-fb:126 cc24;7  100 125
+c=IN IP4 0.0.0.0ö£=cfb:97 naccm! fiack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿcnameÿÿÿ÷ÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!nack pl'
+a==rtcp-"b:1126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!nack pli126p-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿfb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!nack pl'
+a==rtcp-"b:1126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ52!nack pli126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ.

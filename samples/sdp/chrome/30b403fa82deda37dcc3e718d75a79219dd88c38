@@ -1,0 +1,7 @@
+v=0
+o=- 67 2 IN IP4 127.0.0.1
+s=-
+t=0 0ÿÿÿÿÿÿÿÿrprint:sha-2
+a=fingerprint:sha-256 CD
+a=canCsgf
+x

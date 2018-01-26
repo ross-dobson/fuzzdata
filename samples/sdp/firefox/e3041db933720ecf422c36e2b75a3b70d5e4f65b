@@ -1,0 +1,16 @@
+v=0
+o=- 3769271732674177365 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=sendrecv
+a=group:BUNDLE audio video
+a=msid-semantic:WMS 0eff6933-ea39-4761-9730-30c656cb0de8
+m=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106v=0
+o=Mozilla-SIPUA 2208 0 I 105 13 110N IP4  112 113 126
+c=IN IP4 0.0.0.0
+a=candidate:2789528084 1 udp 2122260223 192.168.100.195 49274 typ host generation 0 ufrag l70.0.0.0
+s=SIP Call
+c=IN IP4 192.168.0.71
+t=0 0
+m=aud)o 5086 RTuX neP/AVP 125 0 8 124 10twork-id 1 net1
+mwork-cos

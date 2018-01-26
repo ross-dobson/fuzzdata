@@ -1,0 +1,7 @@
+v=0
+o=- 5 5 IN  
+s=-
+t=00
+m=video 0  5.ost
+a=candidate:OOOOOOOOOOOOOOOOOOOOOOO: 5 udp 21 15 000 typ host
+a=candidate:: 5 udp 21 15 00 typ host

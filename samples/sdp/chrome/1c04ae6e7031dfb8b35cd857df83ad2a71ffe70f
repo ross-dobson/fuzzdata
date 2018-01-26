@@ -1,0 +1,16 @@
+v=0
+o=- 3769271ממממממממממממממממממממממממממממממממממממממממממממממממממזמממממממממממממממממממממממממממממממממממממממממממממממממ!ממממממממממממממממממממממ732674177365 2 IN IP4 127.0.0.1
+s=-
+t=0 0a=sendrecv
+a=group:BUNDLE audia39-47630-30c656cb0de8
+m=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 11 113 126
+c=IN IP4 0.0.0.01Êֿֿׁ
+a=rtpmass
+a=ssrc:3358969748 cname:He7TOeJrdAXice-pwdx/rPp
+a=ssrc:3358969748 msid:0eff6933-ea39-4761-9730-30c656cb0de8 b7e5a84a-d=setup:actpass
+a=ssrc:1829570133 cname:He7TOeJrdAXx/rPp
+a=ssrc:1829570133 msid:0eff6933-ea39-4761-9730-30c656cb0de8 bcd018bd-3fbd-4-ea39-4761-9730-30c656cb0de8
+a=ssrc:1829570133 label:bcd018bd-;fbd-498e-8b13-d5f250080534
+a=ssrc:2589556039 cname:He7TOeJrdAXx/rPp
+a=ssrc:2589556039 msid:0ef0de8 b7e5a84a-d=setup:actpass
+a=ss70133 label:bcd018bd-;fbd-498e-8b13-d5f25008053Fame:He7TOeJrdAXx98e-8b13-d5f250080534

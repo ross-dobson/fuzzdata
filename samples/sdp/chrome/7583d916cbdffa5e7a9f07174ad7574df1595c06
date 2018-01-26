@@ -1,0 +1,7 @@
+v=0
+o=- 7 5   
+s=-
+t=0
+m=video 1  5.9
+a=candidate: 1 udp 2  9 typ host
+a=candidate: 1% udp 1  01 typ host

@@ -1,0 +1,17 @@
+v=0
+o=- 3769271732674177365 2 IN IP4 127.0.0.1
+s=-
+t=0 video
+a=mside9834
+m=video 9 UDP/TLS/RTP/SAVPF 96 98 100 102 127 97 99 101 125
+c=IN IP4 0.0.0.0
+a=rtp1ma:p27 ulpfec/90000
+a=rtpmap:97 rtx/90000
+a=rtpmap:99 rtx/90000mb!
+a=rtcmuø
+a=rtpmap:96 VP8/90000
+a=rtpmap:98 VP9/90000
+a=rtpmap:100 H264/90000
+a=rtpmap:101 red/90000
+a=rtpmap:127 ulpfec/90000
+a=rtpm534

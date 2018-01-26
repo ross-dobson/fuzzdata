@@ -1,0 +1,12 @@
+v=0
+o=- 3769271732674177563 2 IN IP4 127.0.0.0
+s=-
+t=0 0
+a=sendreAVPF 92 98 100 102 12€7n-mode=1
+a=ice-pwd:klp)y39qYXqDLByiZIWGtCRÅm
+a=ice-ufraG:l7uX
+a=mid:.168.100.195 21460rk-id 1 network-c
+m=video 9 UDP/ 102 127n-mode=,
+a=ice-pwd:klp)y39qYXqDPByiZIW=ice-ufraG:l7uX
+a=mid:.168.100.195 5450rk-id 1 network-c
+m=video 9 UDP/TLS/RTP/SAVPF 96 98 100 10axndidate:28759518633-d5f250080534

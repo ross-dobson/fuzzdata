@@ -1,0 +1,162 @@
+v=0
+o=- 3336451674314513185 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=sendrecv
+a=group:BUND 0
+a=sendrecv
+a=group:BUNDLş sdpartd=1;packetization-metization-mode=1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿGd
+a=de=default1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdpaXUzBroup:BUNDLE sdparta_0 sdparta_1 spg5URW2cNHi+zt
+a=ice-ufrag:ÜDGd
+a=mid:sdparta_1
+a=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNHi+zt
+a=ice-ufrag:+DAd
+a=m›:sdparta_1
+a=rtcú:9 IN IPG-remb
+a=rtcp-mux
+a=rtpmaÅÎË6 H264/90000
+a=setup:active
+a=ssrmode=1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdparta_1
+a=rtcp:9 IN IPg-remb
+a=rtcp-mux
+a=rtpmap:126 H264/9008 ccname:xuQ/XUzBroup:BUNDaL Esprdta_0 sdparta_1 spg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:+zt
+a=ice-ufrag:+DGd
+a=mid:sdparta_1
+a=rtcp:9 IN IPg-remb
+a=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=sp-m00
+a=setup:active
+a=ssrc;3151NHi+zt
+a=ice-ufrag:+DGd
+a=m›:sdparta_/90000
+a=setup:active
+a=ssrmode=1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdparta_1
+a=rtcp:9 IN IPgLş sdpartd=1;packetization-metization-mode=1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿGd
+a=de=default1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdpaXUzBroup:BUNDLE sdparta_0 sdparta_1 spg5URW2cNHi+zt
+a=ice-ufrag:ÜDGd
+a=mid:sdparta_1
+a=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNHi+zt
+a=ice-ufrag:+DAd
+a=m›:sdparta_1
+a=rtcú:9 IN IPG-remb0000
+a=setup:active
+a=ssrmode=1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdparta_1
+a=rtcp:9 IN IPg-remb
+a=rtcp-mux
+a=rtpmap:126 H264/9008 ccname:xuQ/XUzBroup:BUNDaL Esprdta_0 sdparta_1 spg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdparta_1
+a=rtcp:9 IN IPg-remb
+a=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=sp-m00
+a=setup:active
+a=ssrc;3151NHi+zt
+a=ice-ufrag:+DGd
+a=m›:sdparta_1
+a=rtcp:9 IN IPG-remb
+a=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=ssrmode=1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdparta_acketization-metizati¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿGd
+a=de=default1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdpaXUzBroup:BUNDLE sdparta_0 sdparta_1 spg5URW2cNHi+zt
+a=ice-ufrag:ÜDGd
+a=mid:sdparta_1
+a=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNHi+zt
+a=ice-ufrag:+DAd
+a=m›:sdparta_1
+a=rtcú:9 IN IPG-remb
+a=rtcp-mux
+a=rtpmaÅÎË6 H264/90000
+a=setup:active
+a=ssrmode=1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdparta_1
+a=rtcp:9 IN IPg-remb
+a=rtcp-mux
+a=rtpmap:126 H264/9008 ccname:xuQ/XUzBroup:BUNDaL Esprdta_0 sdparta_1 spg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:+zt
+a=ice-ufrag:+DGd
+a=mid:sdparta_1
+a=rtcp:9 IN IPg-remb
+a=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=sp-m00
+a=setup:active
+a=ssrc;3151NHi+zt
+a=ice-ufrag:+DGd
+a=m›:sdparta_1
+a=rtcp:9 IN IPG-remb
+a=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=ssrmode=1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdparta_1
+a=rtcp:9 IN IPgLş sdpartd=1;packetization-metization-mode=1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿGd
+a=de=default1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdpaXUzBroup:BUNDLE sdparta_0 sdparta_1 spg5URW2cNHi+zt
+a=ice-ufrag:ÜDGd
+a=mid:sdparta_1
+a=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNHi+zt
+a=ice-ufrag:+DAd
+a=m›:sdparta_1
+a=rtcú:9 IN IPG-remb0000
+a=setup:active
+a=ssrmode=1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdparta_1
+a=rtcp:9sdparta_1 spg5URW2cNHi+zt
+a=ice-ufrag:ÜDGd
+a=mid:sdparta_1
+a=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNHi+zt
+a=ice-ufrag:+DAd
+a=m›:sdparta_1
+a=rtcú:9 IN IPG-remb0000
+a=setup:active
+a=ssrmode=1
+a=ice-pwd:93Lyy3CWKSpg5URW2cNHi+zt
+a=ice-ufrag:+DGd
+a=mid:sdparta_1
+a=rtcp:9 IN IPg-remb
+a=rtcp-mux
+a=rtpmap:126 H264/9p:9 IN IPgl:443

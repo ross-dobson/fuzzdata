@@ -1,0 +1,17 @@
+v=0
+o=- 660800119271832674177365 2 IN IP4 127.0.1
+s=-
+t=0 e8
+m=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 1s1
+s=-
+t=ÿÿÿÿÿÿÿÿ#794#2
+a=maxptime:0 .0.1
+s=-
+t=0 e8
+m=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 1s1
+s=-
+t=ÿÿÿÿÿÿÿÿ#794#2
+a=maxptime:0 006:7A:B2:E7:28
+m=audio:0e006:7A:B2:E7:28
+m=audio:0efÅ6933-
+p:

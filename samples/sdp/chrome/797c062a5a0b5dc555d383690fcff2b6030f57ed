@@ -1,0 +1,8 @@
+v=0
+o=Mozilla- 208 0 IN' IP4 0
+s=SIP C0.71
+t=0 5086 TP/AVP 24 101
+m=audio 0 :96 Mtp;:J=1;CIF
+b=AS:4È6
+
+

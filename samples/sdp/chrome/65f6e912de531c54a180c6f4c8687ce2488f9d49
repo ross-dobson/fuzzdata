@@ -1,0 +1,7 @@
+v=0
+o=m3 5 IN ÿ  
+s=-
+t=8}
+m=application 6 DTLS/SCTP 
+a=sctp-port::t.q:1
+a=sct

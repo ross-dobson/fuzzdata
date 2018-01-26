@@ -1,0 +1,19 @@
+v=0
+o=mozilla...THIS_IS_SDPARTA-52.0a1 7462407748562593591 0 IN IP4 0.0.0.0
+s=-
+t=0 0
+a=f:trickle
+a=msid-semantic:WMS *
+m=audio 9 UDP/TLS/RTP/SAVPaudioF 109 9 0 8
+c=IN IP4 0.0.0.0
+a=se:1/sendonly urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=fmtp:109 maxplaybackrate=}
+a=rtcp-mux
+a=rtpmap:109 opus/08040/2
+a=rtpmap:9 G722/8000/1
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=setup:actpass
+a=ssrc:27841546 cice-optionsname:{7aa8f64-6042-af48-55a41302965e}
+m=video 9 UDP/TLS/RTP/SAVPF 120 1218-55a41302965e}
+

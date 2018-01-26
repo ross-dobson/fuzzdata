@@ -1,0 +1,33 @@
+v=0
+o=- 7 2 IN IP0 
+s=/
+t=C*
+m=audio 5_Ò  0 
+s=5_Ò  0
+a=crypto:0Ò  t
+a=crypto:0Ò  0
+a=crypto:0  9=- 7 2 IN IP0 
+s=/
+t=C*
+m=audio 5_Ò  0 
+s=5_Ò  0
+a=crypto:0Ò  t
+a=crypto:0Ò  0
+a=crypto:0  9900
+a=crypto:0  0Ò  0
+a=crypto:0Ò  pt
+a=crypto:1Ò  0
+a=crypto:0Ò  p0
+a=crypto:0Ò  t
+a=crypto:0Ò  0
+a=crypto:0  9900
+a=crypto:0  0Ò  0
+a=crypto:0Ò  pt
+a=crypto:0Ò  0
+a=crypto:0Ò  pt
+a=crypto:0Ò  0
+a=crypto:0  9900
+a=cr:0Ò  0
+a=crypto:0  9900
+a990
+ap

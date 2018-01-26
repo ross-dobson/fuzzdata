@@ -1,0 +1,9 @@
+v=0
+o=moziHIS_IS_ 2826611580808339 NI0 4 IP4 0.0.0
+s=-
+t=0 0F*
+m=audio 6.136341ÿÿÿÿÿÿÿÿh20.25. activeÿÿÿÿÿÿÿh0.20.24. active
+a=candidate:1 1 UDP 16860523 64.134.220.204 63416 typ prflx radr 10.e
+a=candidate:3 1 UDP 1686052863 64.134.220.204 63416 typ srflx 6p
+a=candidate:2 1 UDP 1686052863 64.134.220.204 63416 typ prflx radr 10.e
+a=candidate:2 1 UDP 1686052863 64.134.220.204 63416 typ srflx raddrÿÿ0.l 256pass

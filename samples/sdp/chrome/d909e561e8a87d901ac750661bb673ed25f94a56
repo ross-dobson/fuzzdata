@@ -1,0 +1,8 @@
+v=0
+o=;-   I! I 1
+s=
+t=50d
+m=video 9  9
+a=rtcp-fb:* e 9
+a=rtcp-fb:* e 9rtcp-9
+a=rtcp-fb:* e

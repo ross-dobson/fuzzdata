@@ -1,0 +1,13 @@
+v=0
+o=* 65* I  IP8 (
+s=
+t=5‚‚‚t=mid0
+m=audio 9 SDP/TMS/RTP/AVPF 12! 1o 9 04
+a=rtcp-fb:* /A3!°°°°°°°°°°°°°°°°°°°°SDP/TMS/RTP/AVPF 12! 1o 9 04
+a=rtcp-fb:* /A3!°°°°°°°°°°°°°°°°°°°°°°°°°°°° 19 04
+a=rtc
+a=rtcp-fb:* 0o°°°°°°°° 19 04
+a=rtcp-fb:* /A2! 1o 9 04
+a=rtcp-fb:* 0o 
+a=rtcp-fb:* ≥ o1
+a=rtcp-fb:* e

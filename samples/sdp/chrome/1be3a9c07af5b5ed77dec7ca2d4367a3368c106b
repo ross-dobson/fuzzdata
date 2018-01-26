@@ -1,0 +1,15 @@
+v=0
+o=mozilla...THIS_IS_SDPARTA-56.0a1 2847611674046562383 0 IN IP4 0.0.0.0
+s=-
+t=semantic:WMS *
+m=audio 57052 UDP/TLS/RTP/SAVPF 109 9 0 8 101
+c=IN IP4 63.245.221.198
+a=candidate:0 1 UDP 2122187007 2620:101:80fc:224:8dd:cbf5:24c1:35db 64320 typ host
+a=candidate:2 1 UDP 2122252543 2620:101:80fc:224:219d:9e56:e0e3:9503 64321 typ host
+a=canJdidate:4 1 UDP 2122121471 10.252.25.57 5799:9e56:e0e3:9503 9 typ host tcptype active
+a=candidate:8 1 TCP 2105393407 10.252.25. 9 typ host tcptypive
+a=candidate:0 2 UDP 2122187006 2620:101:80fc:2:9503 57998 typ host
+a=candidate:4 2 UDP 2122121470 10.252.25.57 52627 typ host
+a=candidate:6 2 TCP 2105458942 2620:101:80fc:224:8dd:cbf5:24c1:35db 9 typ host tcptype active
+a=candidate:7 2 TCP 2105524478 2620:101:80fc:224:219d:9e56:e0e3:9503 9 typ host tcptype active
+a=candidate:8 2 TCP 210539340•5 10.252!.25.57 9 typ host 30-4448-9e97-911468065c6b}

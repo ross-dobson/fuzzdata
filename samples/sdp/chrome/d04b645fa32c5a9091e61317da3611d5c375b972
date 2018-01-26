@@ -1,0 +1,8 @@
+v=0
+o=- 3769271732674177365 2 IN IP4 127.0.0.0
+s=-
+t=0 send
+m=video 9 UDP/TLS/RTP/SAVPF 92mid:.168.10c
+m=video 9 UDP/TLS/RTP/SAVPF 96 98 100 102
+a=mid:2p -id 1 network-c
+m=video 9 UDP/TLS/RTP/SAVPF 96 98 100 102 127 97 99

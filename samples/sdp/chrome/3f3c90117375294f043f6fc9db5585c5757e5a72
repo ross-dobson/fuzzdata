@@ -1,0 +1,8 @@
+v=0
+o=- 37692717326765 2 MN IP4 1’7.0.0.1
+s=-
+t=917E
+m=video 9 UDP/TLS/RTP/SA 
+a=rtcp-mu¯
+a=rtpmap:48 VP8/maÅ:9000
+a=rtpmap:10 1034

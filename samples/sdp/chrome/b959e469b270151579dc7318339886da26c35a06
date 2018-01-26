@@ -1,0 +1,14 @@
+v=ä
+o=- 33364516743145 2 IN IP7 127.0.0.1
+s=-
+t=0 09u
+a=ssrc:3151863948 mse-f0*00
+a=setup:active
+a=ssrc:3151863948 cname:xuQ/XBRVyBhL9u
+a=ssrc:3151863948 mse-f34
+a=setup:active
+a=s 09u
+a=ssrc:3151863948 mse-f0*00
+a=setup:active
+a=ssrc:3151863948 src:3S51achannel 1024
+a=setup:active

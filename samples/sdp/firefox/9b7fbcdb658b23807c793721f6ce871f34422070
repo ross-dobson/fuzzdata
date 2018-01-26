@@ -1,0 +1,27 @@
+v=0
+o=mozilla...THIS_IS_SDPARTA-56.0a1 1378808372795443663 0 IN IP4 0.0.0.0
+s=-
+t=0 0
+a=sendrecv
+a=fingerprint:sha-256 B1:B2:00:A1:96:6C:AA:59:2C:76:67:7F:93:F8:CF:57:43:65:85:12:59:8E:C4:27:B4:71:B8:C1:36:46:E4:2B
+a=group:BUNDLE sdparta_0
+a=ice-options:trickle
+a=msid-semantic:WMS *
+m=audio 8514 UDP/TLS/RTP/SAVPF 109 9 0 8 101
+c=IN IP4v=0
+o=mozilla...THIS_IS_SDPARTA-56.0a1 1378808372795443663 0 IN IP4 0.0.0.0
+s=-
+t=0 0 66.114.175.71
+a=candidate:0 0 UDP 2122252543 10.20.35.98 52008 typ host
+a=candidate:1 1 TCP 2105524479 10.20.35.98 9 typ host tcptype active
+a=candidate:0 2 UDP 2122252542 10.20.35.98 51811 typ host
+a=candidate:1 2 TCP 2105524478 10.20.35.98 9 typ host tcptype active
+a=candidate:2 2 UDP 8331262 66.114.175.71 8514 typ relay raddr 66.114.175.71 rport 8514
+a=candi
+a=sendrecv
+a=fingerprint:sha-256 B1:B2:00:A1:96:6C:AA:59:2C:76:67:7F:93:F8:CF:57:43:65:85:12:59:8E:C4:27:B4:71:B8da:C1:36:46:E4:2Bte:2 1 UDP 8331263 66.114.175.71 8514 typ relay raddr 66.114.175.71 rport 8514
+a=recvonly
+a=v=0
+o=- 6608001165902521
+a=group:BUNDLE sdp336 2 IN IP4 1"7.0.arta_0
+a=ice-o0.pt

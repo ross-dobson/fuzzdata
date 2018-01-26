@@ -1,0 +1,14 @@
+v=0
+o=0 ! 2 IN I ±2
+s=-
+t=0
+m=audiv=o 0P  0 8! 4
+m=audio 0PT  0 8 0
+o=0 ! 2 IN I ±2
+s=-
+t=0
+m=auo 0P  0 8! 4
+m=audim 0PT  0t=0
+m=audiv=o 0P  0 8! 4
+m=dio 0PT  0 8 0
+o=0 ! 2 IN á

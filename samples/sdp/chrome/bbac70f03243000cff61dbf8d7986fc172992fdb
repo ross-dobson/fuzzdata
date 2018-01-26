@@ -1,0 +1,8 @@
+v=0
+o=- 77365 2 IN IP4 127.0.0.1
+s=-
+t=0 video
+a=mside4917
+m=video 9 UDP/TLS/RTP/SAVPF 96 98 100 102 127 98 99 100 12 0
+a=rtpmap:100a=rtpmap:102 red/90000
+a=rtpmap:127 u•pfec/90000

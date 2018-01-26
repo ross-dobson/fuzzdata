@@ -1,0 +1,6 @@
+v=0
+o=-  2 IN IP4 12.0.0.1
+s=-
+t=0 0s
+a=sendrecv
+a=fingerprint:sha-256 70:B9:BF:B0:B8:C3:ED:C2:A7:A9f

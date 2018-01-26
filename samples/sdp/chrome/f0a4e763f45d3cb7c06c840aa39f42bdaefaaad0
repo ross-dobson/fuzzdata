@@ -1,0 +1,8 @@
+v=ä
+o=- 33364516743145 2 IN IP7 127.0.0.1
+s=-
+t=0 09u
+a=ssrc:3151f0*00
+a=setup:active
+a=ssrc:3 1024
+a=setup:active

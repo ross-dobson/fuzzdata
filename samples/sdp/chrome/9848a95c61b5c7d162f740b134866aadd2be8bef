@@ -1,0 +1,10 @@
+v=0
+o=MozPUA 2*08 0 IN IP2 0.0.0.0
+s=SIP Call
+c=IN IP4 192.168.0.71
+t=0 0
+m=Íaud)o 5086 TP/AVP 10srflx8 85  124 101
+m=audfo 0 PRV A4 101
+m=audio 0 PRV AT98/90000
+a=fmtp:108 D=1;F=1;I=1ËJ=1;CI=1;;I=1;Èß»Å1;F=1;I0F=1;TUSIFCC=1;CIF445apJ:108 DJ=1;CIF=1;CAF4=ap:;1;F=1;I=1;J=1;=1;F=1;I=1;J=1;=1;Iö1;8 D=1;F=1;ÿÿ1;J=1;=1;I=1;J=1;=1;I0F=1m;ÉpJ:108 D=1;Æ=1;I=1;J=1;=1;I=1;J=1;CIF=1;CIF4=ap:;1;F=1;I=1;J=1;=1;F=1;I=1;J=1;=1;I=1;8 D=1;F=1; D=1;=1;=1;I=4=ap:;1;F=1;I=1;J=1;=1;;I=1;J=1;=1;I0F=1m;ÉpJ:108 D=1;Æ=1;I=1;J=1;=1;I=1;J=1;CIF=1;CIF4=ap:;1;F=1;I=1;J=1;=1;F=1;I=1;J=1;=1;I=1;8 D=1;F=1; D=1;=1;=1;I=1;J=1;;J=1;=1;F=1;I=1
+o=mo=1;CIFz=

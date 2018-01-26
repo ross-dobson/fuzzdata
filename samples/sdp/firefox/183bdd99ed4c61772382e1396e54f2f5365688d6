@@ -1,0 +1,55 @@
+v=0
+o=mozilla...THIS_IS_SDPARTA-56.0a1 2847611674046562383 0 IN IP4 0.0.0.0
+s=-
+t=0 0
+a=sendrecv
+a=fingerprint:sha-256 76:4F:8F:C0:0E:C7:F4:A1:CF:AD:99:68:40:EA:73:B0:AB:DE:1D:A8:3B:22:9A:69:9A:8F:DD:63:54:CE:A0:DF
+a=group:BUNDLE sdparta_0 sdparta_1
+a=ice-options:trickle
+a=msid-seman393406 10.252.25.57 9 typ host tcptype active
+a=candidate:5 1 UDP 1685921791 63.245.221.198 57052 typ srflx raddr 10.252.25.57 rport 57996
+a=candidate:5 2 UDP 1685921790 63.245.221.198 57451 typ srflx raddr 10.252.25.57 rport 52628
+a=sendrecv
+a=end-of-candidates
+a=extmap:1/sendonly urn:ietf:param26 profile-level-id=42e01f;level-asymmetry*allowed=1;packetization-mode=1
+a=fmtp:97 profile-level-id=42e01f;level-asymmetate:5 2 UDP 1685921790 63.245.221.198 61364 typ srflx raddr 10.252.25.57 rportb 9 typ host tcptype active
+a=candidate:7 2 TCP 2105524478 2620:101:80fc:224:219d:9e56:e0e3:9503 9 typ host tcptype active
+a=candidate:8 2 TCP 2105393406 10.252.25.57 9 typ host tcptype active
+a=candidate:5 1 UDP 1685921791 63.245.221.198 57052 typ srflx raddr 10.252.25.57 rport 57996
+a=candidate:5 2 UDP 1685921790 63.245.221.198 57451 typ srflx raddr 10.252.25.57 rport 52628
+a=sendrecv
+a=end-of-candidates
+a=extmap:1/sendonly urn:ietf:param26 profile-level-id=42e01f;level-asymmetry*allowed=1;packetization-mode=1
+a=fmtp:97 profile-level-id=42e01f;level-asymmetate:5 2 UDP 1685921790 63.245.221.198 61364 typ srflx raddr 10.252.25.57 rport 64551
+a=sendrecv
+a=end-of-candidates
+a=extmap:1 http://www.webrtc.org/expdparta_1
+a=msid:{31180b13-57f4-b940-b6f6-5c82d01b2c72} {282c1182*53e4-924f-8954-e5a7d25963a9}
+a=rtcp:61364 IN IP4 63.245.221.198
+a=rtcp-fb:120 nack
+a=rtcp-fb:120 v=0
+o=FreeSWITCH 1499256105 1499256106 IN IP4 209.105.235.24
+s=-
+t=0 0
+a=sendrecv
+a=msid-semantic:WMS P5UiPqRg4OXNQP26pwY8Tq428B8aNdQs
+m=audio 171(0 UDP/TLS/RTP/SAVPF 109 101
+c=IN IP4 2=IN IP4 209.105.235.24
+b=AS:3072
+a=candidate:5321500174 1 udp 659136 209.105.235.24 22676 typ host generation 0
+a=sendrecv
+a=end-of-candidates
+a=fingerprint:sha-256 5D:36:EC:52:16:CF:18:F8:79:CE:9A:BF:7B:1D:F1:08:3C:B9:52:50:91:1F:CE:13:E2:94:1nack pli
+a=rtcp-fb:120 ccm fir
+a=rtcp-fb:120 goog-remb
+a=rtcp-fb:121 nack
+a=rtcp-fb:120 nack pli
+a=rtcp-fb:121 ccm fir
+a=rtcp-fb:060 goog-remb
+a=rtcp-fb:126 nack
+a=rtcp-fb:1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ26 nack pli
+a=rtcp-fb:126 ccm fir
+a=rtcp-fb:126 goog-r8:emb
+a=)tcp-fb:97 nack
+a=F5:55:C2:15:1B
+a=

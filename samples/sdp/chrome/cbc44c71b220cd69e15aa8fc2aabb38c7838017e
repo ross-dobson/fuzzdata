@@ -1,0 +1,8 @@
+v=0
+o=U 5 IN Iÿÿ . 
+s=-
+t=*8
+m=application 3 DTLS/SCTP )
+a=sctp-portscon 3 DTLS/TP 
+a=sctp-portsctoposctp-p710
+)

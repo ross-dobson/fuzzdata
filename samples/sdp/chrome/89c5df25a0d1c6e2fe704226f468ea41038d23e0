@@ -1,0 +1,46 @@
+v=0
+o=- 5 o 9  pp
+s=-
+t=ё
+m=audio 9  0
+a=rc:8 e:
+a=ssrc:4 :Hо
+a=ssrc:6 e:оо
+a=ssrc:3 e:src:4 :H
+a=ssrc:8 e:
+a=ssrc:4 :Hо
+a=ssrc:3c:8 e:
+a=s=sc:4 :Hо
+a=ssrc:8 e:
+a=s=ssrc:8 e:
+a=ssrc:4 :H
+e=ssrc:8 e:
+a=ssrc:4 :Hо
+a=ssrc:3 e:оо
+a=ssrc:3 e:src:src:8 e:
+a=ssrc:4 :H
+a=ssrc:8 e:
+a=ssrc:4 :Hо
+a=ssrc:6 e:оо
+a=ssrc:3 e:src:4 :H
+a=ssrca=ssrc:4 :Hо
+a=ssrc:3 e:оо
+a=s essrc:4 :Hо
+a=ssrc:8 e:
+a=s=sc:4 :Hо
+a=ssrc:8 e:
+a=s=ssrc:8 e:
+a=ssrc:4 :H
+e=ssrc:8 e:
+a=ssrc:4 :Hо
+a=ssrc:3 e:оо
+a=ssrc:3 e:src:src:8 e:
+a=ssrc:4 :H
+a=ssrc:8 e:
+a=ssrc:4 :Hо
+a=ssrc:6 e:оо
+a=ssrc:3 e:src:4 :H
+a=ssrc:8 e:
+a=ssrc:4 :Hо
+a=ssrc:3 e:оо
+a=sssctp-port

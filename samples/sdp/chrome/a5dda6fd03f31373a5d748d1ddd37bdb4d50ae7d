@@ -1,0 +1,9 @@
+v=0
+o=!PUA 2207 0 IN< IP4 0.0.0.0
+s=W.71
+t=01
+m=audio 0 PRV ATP3;
+a=fmtp:10( D=1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ;F=2;C=1;Á=Ã;=!9;CRV=
+a=fmtp:10( ¼ÙV=
+a=fmtp:10( ÂÎ;*=
+a=fmtp:10( ¼ÂmtI

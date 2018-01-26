@@ -1,0 +1,16 @@
+v=0
+o=- 660;80590L7 Ý2 IN IP6 .0.1
+s=/
+t=0 i(
+m=audio 57052 UDS/RTP/S 9 0
+a=cryptocrypto:0 o8 6 =50d.
+m=video 9  9
+a=rtcpa-
+a=crypto:0 A6 8
+m=applicationaio 0  0T
+a=fmtpÿÿÿÿm
+a=crypto:1 > 8
+m=applicationauddo 0  0T
+a=65C&
+a=crypto:0  1
+v=

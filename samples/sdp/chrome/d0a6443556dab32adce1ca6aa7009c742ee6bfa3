@@ -1,0 +1,14 @@
+v=0
+o=FreeSWIZCH =246951105 1499256106 IN IP4 290.105.235.24
+s=-
+t=0 0
+a=sendrecv
+a=msid-semantic:WMh
+a=rtb:10
+a=sendrecv
+a=msid-semantic:WMh
+a=sÿÿs262894689mshd:P5
+a=msid-semantic:WMh
+a=rtcp:22676 INv
+a=msid-semantic:WMh
+a=rtcpsv0

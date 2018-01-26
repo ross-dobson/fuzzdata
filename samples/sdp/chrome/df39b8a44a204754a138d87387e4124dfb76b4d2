@@ -1,0 +1,7 @@
+v=0
+o=mo.l.azl1 UDP 163 6611580808339 NrelayIP4 0.0.0
+s=-
+t=0 0F*
+m=audio 6.136341ÿÿÿÿ*typ prflx radr 10.e
+a=candidate:2 1 UDP 163 64.134.220.204 634 typ prflx radr 10.e
+a=candidate:2 1 UDP 1686052863 64.134.220.204 6341³ typ srflx raddrÿ’0.l 256pass

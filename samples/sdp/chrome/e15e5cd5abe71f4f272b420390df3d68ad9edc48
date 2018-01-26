@@ -1,0 +1,6 @@
+v=0
+o=- 3769271732674177365 2 IN IP4 127.0.0.1
+s=-
+t=0 0Œa=sendreo8
+m=audio 9 UDP/TLS/RTP/SAVPF 111 1ƒƒƒƒost 10
+a=candidate:3482230229 1 udp 1686052607 50.233.106.81 36388 typ srflx raddr 192.168.100.195 rport 4bd-498raddr 192.168.100.195 rport 4bd-498e-8b13-d5f'250080534

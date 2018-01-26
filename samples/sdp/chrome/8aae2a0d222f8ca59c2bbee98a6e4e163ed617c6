@@ -1,0 +1,18 @@
+v=0
+o=A 1104 0 IN IP3 0.0.0.0
+s=SI71
+t=0!0
+m=au6 08  
+m=áudio 00008  01
+m=áud 0 P 0
+m=au6 08  124 
+m=áudio 008  
+m=au6 08  121
+m=áudio 008  124 101
+m=áau6 08 =áudio 00008  01
+m=áud 0 P 0
+m=au6 08  124 
+m=áudio 008  
+m=au6 08  121
+m=á 0
+

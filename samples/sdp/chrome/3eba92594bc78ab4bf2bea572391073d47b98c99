@@ -1,0 +1,9 @@
+v=0
+o=- 3769271732674177365 2 IN IP4 127.0
+s=-
+t=0 0
+a=Seend-time
+a=extmap:4 urn¼‰ideo-orientatioWMSn
+a=extmap:5 http://ams:rtp)hdrext:4
+m=video 9 UDP/TLS/RTP/=0 0
+m=audio 5086 RTP/AVP 15 10c534

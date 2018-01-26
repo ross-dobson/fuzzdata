@@ -1,0 +1,57 @@
+v=ה
+o=- 3336451674314513185 2 IN IP7 127.0.0.1
+s=-
+t=0 0
+a=sendrecv
+a=group:BUNDLE sdparta_0 sdparta_1 =rtcp-fb:126 goa=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=ssrc:3151863948 cname:xuQ/XUzBRVyBhL9u
+a=ssrc:3151863948 mse-fיייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייי34
+a=setup:active
+a=ssrc:3151863948 cname:xuQGd=rtcp:ÿÿÿÿÿctpmap:5000 w)ebrtc-datachannel 10t=0 0
+a=sendrecv
+a=group:BUNDLE sdparta_0 sdparta_1 =rtcp-fb:126 goa=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=ssrc:3151863948 cname:xuQ/XUzBRVyBhL9u
+a=ssrc:3151863948 mse-f34
+a=setup:active
+a=ssrc:3151863948 cname:xuQGd=rtcp:ÿÿÿÿÿ126 H264/90000
+a=setup:active
+a=ss”c:3151863948 cname:xuQ/XUzBRVyBhL9u3948 cname:xuQGd=rtcp:ctpmap:5000 w)ebrtc-datachannel 10og-remb
+a=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=ss”c:3151863948 cname:xuQ/XUzBRVyBhL9u
+a=ssrc:3151863948 mse-f34
+a=setup:active
+a=ssrc:3151863948 cnameog-remb
+a=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=ss”c:3151863948 cname:xuQ/XUzBRVyBhL9u3948 cna34
+a=setup:active
+a=ssrc:3151863948 cname:xuQGd=rtcp:ÿÿÿÿÿctpmap:5000 w)ebrtc-datachannel 10t=0 0
+a=sendrecv
+a=group:BUNDLE sdparta_0 sdparta_1 =rtcp-fb:126 goa=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=ssrc:3151863948 cname:xuQ/XUzBRVyBhL9u
+a=ssrc:3151863948 mse-f34
+a=setup:active
+a=ssrc:3151863948 cname:xuQGd=rtcp:ÿÿÿÿÿ126 H264/90000
+a=setup:active
+a=ss”c:3151863948 cname:xuQ/XUzBRVyBhL9u3948 cname:xuQGd=rtcp:ctpmap:5000 w)ebrtc-datachannel 10og-remb
+a=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=ss”c:3151863948 cname:xuQ/XUzBRVyBhL9u
+a=ssrc:3151863948 mse-f34
+a=setup:active
+a=ssrc:3151863948 cnameog-remb
+a=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:active
+a=ss”c:3151863948 cname:xuQ/XUzBRVyBhL9u3948 cname:xuQGd=rtcp:ÿÿÿme:xuQGd=rtcp:ÿÿÿÿÿctpmap:5000 w)ebrtc-datachannel 1024
+a=setup:active

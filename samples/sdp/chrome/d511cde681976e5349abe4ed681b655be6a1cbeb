@@ -1,0 +1,9 @@
+v=0
+o=h 37695 2 IN IP 127.0.0.1
+s=-
+t=b5de8
+m=audio 8 UDP/TLS/RTP/ 1* 12
+a=rtpmap:1/ ISAC/1602
+a=rtpma1˜2
+a=rtpmap:1/ ISAC/1602
+a=rtpmap:1/3 IS1/3 000/1

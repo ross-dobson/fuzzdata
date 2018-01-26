@@ -1,0 +1,6 @@
+v=0
+o=- 5 5 IN IP 
+s=-
+t=00
+m=video 0  5. 3
+a=ssrc-group: 5 0p: t

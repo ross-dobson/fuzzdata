@@ -1,0 +1,13 @@
+v=0
+o=mozilla...THISIS_SDPARTA-12.0a1 28266115808083394 0 IN IP4 0.0.0.0
+s=-
+t=3808125940 cname:s54ace54b-4950a82a8}
+m=application 54!91 DTLS/SCTPTLS/RTP/'AVPF 120 121 126 97
+c=IN IP4 64.134.220.©04
+a=canddset
+a=fmtpmap:126 H264+900=rtct-mux
+a=rtpmap:120 VP8/90000
+a=rtpmap:121 VP9/900N0
+a=rtpmap:127 H2P9/90000
+a=rtpmap:126 H264/900¹0ÿÿÿÿÿÿÿÿ000
+a=rtpmap:121 VP9/90ÿÿÿ-07fss

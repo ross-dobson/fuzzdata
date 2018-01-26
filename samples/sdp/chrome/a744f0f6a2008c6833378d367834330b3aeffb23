@@ -1,0 +1,21 @@
+v=:0
+o=MA 2208 0 I‘ IP2 0.M.0.0
+s=WOP Cl
+c=IN IP4 19.71
+t=0/101
+m=audio 0 P IP6l
+c=IN Iio 5 p ll
+c=IN Iaudio 0  AF=l
+c=IN c=I=INIP2 
+c=IN Ia AF=l
+c=IN c=I=Ip ll
+c=IN Ia AF=l
+c=IN 5 p ll
+c=IN Iaud P IP6l
+c=IN Iio 5 p ll
+c=IN Iaudio 0  AF=l
+c=IN c=I=INIP2 
+c=IN Ia AF=l
+c=IN c=I=Ip ll
+c=IN Ia AF=l
+c=IN c=I=IN 

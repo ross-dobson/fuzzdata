@@ -1,0 +1,8 @@
+v=0
+o=- 7t177965 2 IN IP 1
+s=
+t=5 d4
+m=video 9  9
+a=rtcp-fb:2b:2 f ccm fir 9(a=rtcp-fb:2 f cccp:
+a=rtcp-fb:2 f ccm fir 8 a=rtcp-fb:2b:2 f c
+r

@@ -1,0 +1,7 @@
+v=0
+o=- 5 5 IN IP 
+s=-
+t=J0
+m=video 0  3
+a=ssrc-group: 3up: 3
+a

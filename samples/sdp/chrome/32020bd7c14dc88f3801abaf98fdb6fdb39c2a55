@@ -1,0 +1,13 @@
+v=0
+o=- 3769271733274650254 2 IN IP4 127.0.0.1
+s=-
+t=11-9730-30c656cb0de8
+m=audio 9 UDP/TLSRTP/FASVP 111 103 1°wor5008053el:0eff6933-ea39-4761-97tx/57tx/50080534µµµµµµµµµµµµµµµµµµµ
+a=ssrc:258955relay6039 mslabel:0eff6933-ea3:bcd018bd-v=host- 0ctx/50080534sendonly
+a=ssrc:25895l:0eff6933-ea39-4761-97tx/50080534a=ssrc:2589556039 mslabel:0eff656cb0deb92ä1733274650254 2 IN IP4 127.0.0.1
+s=-
+t=11-9730-0c656cb0de8
+m=audio 9 UDP/TLSRTP/FASVP 111 103 1°wor50080534
+a=ssrc:2589556039 mslabel:0eff6933-ea39-4761-97tx/50080534µµµµµµµµµµµµµµµµµµµ
+a=ssrc:258955relay2039 mslabel:0eff6933-ea39-bel:bcd018bd-v=0
+o=src:2589556039 mslabel:0e933-ea39-4761-97tx/50080534a=ssrc:258d-498e-8b13-d5f2500(0534

@@ -1,0 +1,7 @@
+v=0
+o=- 376973267t15 2 IN IP4 127.0.0.1
+s=-
+t=0 4
+m=videoF 96 98  100 1000
+a=fmtp:18 D=1;F=1;I=1;J=1;C D=1;WMSF=;=CIF=1;CIF4=2;QCIF=1WMS D=1;F'=1
+

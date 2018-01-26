@@ -1,0 +1,50 @@
+v=0*ÝÝÝÝÝÝÝÝ
+o=zA  0 I  
+s=0
+t=0
+m=audio 0  0T+
+a=fm!tp:0 fmoe 8514
+a=recvonly
+a=v0  0T+
+a=fmtp:0 fmoe 8514
+a=recvonly
+a=v=÷a=fmtp:0 fmoe 8514
+a=recvonly
+a=v=0
+o=-5>71 rpovt 8514
+a=recvonly
+a=rpýovt 8514
+a=r 8514
+a=recvonly
+a=v=0
+o=-4.71 rpovt 8514
+a=recvonly
+a=v=00
+o=-5.71 rpovt 8514
+a=recvonly
+a=v=0
+o=-*66080014
+a=recvonly=audio 0  0T+
+a=fmtp:0 fmoe 8514
+a=recvonly
+a=v0  0T+
+a=fmtp:0 fmoe 8514
+a=recvonly
+a=v=÷a=fmtp:1 fmoe 8514
+a=recvonly
+a=v=0
+o=-5>71 rpovt 8514
+a=recvonly
+a=v=00
+o=-5.71 rpovt 8514
+a=fmtp:0 fmoe 8514
+a=recvonly
+a=v=0
+o=-5.71 rpovt 8514
+a=recvonly
+a=v=00
+o=-5.71 rpwvt 8514
+a=recvonly
+a=v=0
+o=-*66080014
+a=recvonly5}

@@ -1,0 +1,14 @@
+v=0
+o=mozi1 24331057904041697 0 IN IP4 0.00.0.0
+s=¾-
+t=0 0
+a=senlrecv
+a=fingerprine
+a=msid-sc:WMS *
+m=audio 6341A/PF 109 9 0 8 101
+c=IN IP4 64.134.220.204
+a=candidate:0 1 UDP 2122252543 10.20.24'132 63416 typ host
+a=candidate:2 1 UDP 1686052863 631.43.220.204 63416 typ srflx raddr 10.20tive
+a=candidate:0 2 UDP 2122252542 10.20.24.132 54932 typ host
+a=candidate:4 2 TCP 105276223:9ÿÿÿÿ 2 54932 typ host
+a=candidate:4 2 TCP 105276223:9ÿÿÿÿ 131 9 typ host ta81228334f11750.24.132 ass

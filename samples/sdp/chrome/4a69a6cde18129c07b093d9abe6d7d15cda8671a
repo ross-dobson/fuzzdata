@@ -1,0 +1,107 @@
+v=0
+o=FreeSWIZCH 14=9256105 1499256106 IN IP4 290.105.235.24
+s=-
+t=0a=sÿÿsrc:262894689msid:P5
+a=msid-semantic:WMh
+a=rtcp:22676 INv
+a=msid-semantic:WMh
+a=rtcp:262894689mshd:P5
+a=msid-semantic:WMh
+a=rtcp:22676 INv
+a=msid-=msid-semantic:WMh
+a=rtb:11
+a=sendrecv
+a=msid-semantic:WMh
+a=sÿÿsrca=sendrecv
+a=msid-semantic:WMh
+a=rtb:10
+a=sendrecv
+a=msid-semantic:WMh
+a=p:acsemantic:WMh
+a=rtcp:22676 INv 0
+a=sendrecv
+a=msid-semantic:WMh
+a=rtb:10
+a=send¸recv
+a=msid-semantic:WMh
+a=sÿÿsrca=sendrecv
+a=msid-semantic:WMh
+a=rtb:11
+a=sendrecv
+a=msid-sid-semantic:WMh
+a=rtb:1=sÿÿsrca=sendrecv
+a=msid-semantic:Wmantic:WMh
+a=rtcp:22676 INv
+a=msid-tasmenic:WMh
+a=rtcp:262894d-semantic:WMh
+a=rtcp:22676 INv
+a=msid-=msid-semantic:WMh
+a=rtb:10
+a=sendrecv
+a=msid-semantic:WMh
+a=sÿÿsINv 0
+a=sendrecv
+a=msid-semantic:WMh
+a=rtb:10
+a=send¸recv
+a=msid-semantic:WMh
+a=sÿÿsrca=sendrecv
+a=msid-semantic:WMh
+a=r11
+a=sendrecv
+a=msid-sid-semantic:WMh
+a=rtb:10
+a=sendrecv
+a=msid-semantic:WMh
+a=sÿÿsrca=sendrecv
+a=msid-semantic:WMh
+a=rtb:10
+a=sendrecv
+a=msid-semantic:WMh
+a=p:active
+a=sÿÿsrc:262894689msid:ÿÿ
+a=msid-semantic:WMh
+a=rtcp:22676 INv
+a=msid-semantic:WMh
+a=rvcp:262894689mshd:P5
+a=msid-semantic:WMh
+a=rtcp:2endrecv
+a=msiîîîîîîîîîîîîîîîîîîîsid:P5
+a=msid-semantic:WMh
+a=rtcp:22676 INv
+a=msid-semantic:WMh
+a=rtcp:262894689mshd:P5
+a=msid-semantic:WMh
+a=rtcp:22676 INv
+a=msid-=msid-semantic:WMh
+a=rtb:10
+a=se'ndrecv
+a=msid-semantic:WMh
+a=sÿÿsrca=sendrecv
+a=msid-semantic:WMh
+a=rtb:10
+a=sendrecv
+a=msid-semantic:WMh
+a=p:acsemantic:WMh
+a=rtcp:22676 INv 0
+a=sendrecv
+a=msid-semantic:WMh
+a=rtb:10
+a=sendrecv
+a=msid-semantic:WMh
+a=sÿÿsrca=sendrecv
+a=msid-semantic:WMh
+a=rtb:11
+a=sendrecv
+a=msid-sid-semantic:WMh
+a=rtb:10
+a=sendrecv
+a=msid-semantic:WMh
+a=sÿÿsrca=sendrecv
+a=msid-semantic:WMh
+a=rtb:10
+a=sendrecv
+a=msid-semantic:WMh
+a=p:actndrecv
+a=mnsemantic:WM`
+a=rtcpsv0

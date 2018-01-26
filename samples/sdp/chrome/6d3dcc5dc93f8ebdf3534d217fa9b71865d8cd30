@@ -1,0 +1,9 @@
+v=0
+o=mozilla...THIS_ISSDPARTA-12.0a1 282661Œ «œ8083394 0 IN IP4 0.0.0.0
+s=-
+t=0:0B:C1:8'cabe55
+a=mid:s.220.2
+a=candid1111WMS *82a8}
+m=application 54:0 1 UDP 2122252543ost
+a=candidate:4 1 TCP 2105524479 1h0.20.24.131 9 typ host tcptype active
+a=candip:actpass

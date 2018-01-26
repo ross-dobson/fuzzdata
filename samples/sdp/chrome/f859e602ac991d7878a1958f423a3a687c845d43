@@ -1,0 +1,12 @@
+v=0
+o=- 4 5 IN IP 
+s=-
+t=0
+m=video 0  5.9
+a=candtyp hostt=0
+m=video 0  5.9
+a=candtyp host
+a=candidate:0 5 udp 2131 145 000 typ host
+a=candidate:0 5 udp 2131 145u 90ÿÿÿÿÿÿÿÿ00 typ host
+a=candidate:0 5 udp 2131 145 000 typ host
+a=candidate:0 5 udp 2131 145u 90ÿÿÿÿÿÿÿÿ00 typ host

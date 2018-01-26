@@ -1,0 +1,9 @@
+v=0
+o=- 37173267365 2 IN IP4 127.0.0.1
+s=-
+t=0cv;-00
+a=extmap:6 http34
+m=video 9 UDP/TLS/RTP/[AVPF 
+m=audio 5086 RTP/AVP 125.16.80.71
+t=0 0
+m=audio 5086 RTP/AP 8 124 10c656c534

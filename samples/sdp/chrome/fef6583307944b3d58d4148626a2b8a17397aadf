@@ -1,0 +1,7 @@
+v=0
+o=- 67 2 IN IP 12.1
+s=-
+t=0
+a=fingerprint:sha-256 CD:BA:8E:25
+m=CD
+x

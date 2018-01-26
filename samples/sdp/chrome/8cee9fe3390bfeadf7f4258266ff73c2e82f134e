@@ -1,0 +1,18 @@
+v=0
+o=FreeSWITCH 1499256105 1499256106 IN IP4 209.105.235.E
+s=-
+t=0 0edn
+a=sre32aNdQs
+m=audio 17100 U2W06 217100 U2W06 22W06xNQP26pwY8Tq428B8aN69
+a=ice-pwd:3g
+b=A-fn=60
+a=ice-pwd:6gh22W06N69
+a=ice-pwd:6g
+b=A-fn=60
+a=ice-pwd:6gh22W06xNQP2¶2W06xNQP26pwY8Tq428B8aN69
+a=ice-pwd:3g
+b=A-fn=60
+a=ice-pwd:6gh22W06N69
+a=ice-pwd:6g
+b=A-fn=60
+a=ice-pwd:6gh22W06xNQP2¶pwY8Tq428B8aNdQsv0

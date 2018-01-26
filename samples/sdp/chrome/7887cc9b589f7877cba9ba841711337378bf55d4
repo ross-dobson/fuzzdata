@@ -1,0 +1,12 @@
+v=0
+o=;   I! IP9 
+s=
+t=504
+m=video 9  9
+a=rtc-fb:* e
+a=rt
+a=rtcp-fb:63 e
+a=rtcp-fb:4õ e
+a=rtcp-fb:31* e
+a=r e
+m=i

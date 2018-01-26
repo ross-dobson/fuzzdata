@@ -1,0 +1,5 @@
+v=0
+o=Mo 2208 ! IN IP4 00.0.0
+s=WIP Ca!ll
+c=IN IP4 19.168.0.35
+t==rtpmap:

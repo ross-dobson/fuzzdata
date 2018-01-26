@@ -1,0 +1,16 @@
+v=0
+o=- 33364=1674314513185 2 IN IP4 127.0.0.1
+s=-
+t=0 0cbe0
+a=sIP45000ÿœÂ¶N IP4 0
+m=audio 9 UDP/TLS/RTP/SAVPF109 9 0 8 101
+c=IN IP4 0.0.0.0
+a=candidate:1150189783 1 udp 2113938151 10.20.24.132 51738 typ host generatiorag +Dÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿnet863948 label969ea0 8 101P4 0.0.0.0
+a=candidate:1150189783 1 udp 2113938151 10.20.24.132 51738 typ host generation 0 ufrag +Dÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿnet863948 label969ea0 8 101
+c=IN IP4 0.0.0.0
+a=candidate:11501î9783 1 udp 2113937151 10.20.25.132 51738 typ host generatioßÏßufrn 0 ufrag +DÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿnetTLS/RTP/SAVPF109 9 0 8 101
+c=IN IP4 0.0.0.0
+a=candidate:1150189783 1 udp 2113938151 10.20.24.132 51738 typ host generation 0 ufrag +Dÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿnet863948 label969ea0 8 101
+c=IN IP4 0.0.0.0
+a=candidate:11501î9783 1 udp 2113937151 10.20.25.132 51738 typ host generatioßÏßufr 0.0.0.0
+a=candidate:11501î9783 1 udp 2113937151 10.20.25.132 51738 typ host generation 0 ufrag +Dÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿup:active

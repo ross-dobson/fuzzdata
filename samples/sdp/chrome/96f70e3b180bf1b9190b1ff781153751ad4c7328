@@ -1,0 +1,9 @@
+v=0
+o=zA  0 I  
+s=0
+t=0
+m=audio 0  5T
+a=fmtp:2 H:=;=2 T
+a=fmtp:1 H:=;=1 T
+a=fmtp:1:=;=1 =;=1 T
+a=fmtp:1 : :=;ÿÿ

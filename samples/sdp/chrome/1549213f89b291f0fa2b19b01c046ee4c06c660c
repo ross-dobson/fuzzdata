@@ -1,0 +1,14 @@
+v=0
+o=Mozilla-SIPUA 208 0 IN IP4 0.0.0.0
+s=SIP Call
+t=0 0
+m=aud)o 5086 TP/AVP 25 101
+m=audio 0 :96 Mtp:1041;J=1;CIF
+b=AS:409;I=1;J=1ap:109 !hdio  0:96 Mtp086 TP/AVP 25 101
+m=audio 0 :96 Mtp:1041;J=1;CIF
+b=AS:409;I=1;J=1ap:109 !hdio  0:96 Mtp:1041;Jÿÿÿÿÿÿÿÿ=1;CIF
+b=AS:409;I=1;J=1ap:109:1041;Jÿÿÿÿÿÿÿÿ=1;CIF
+b=AS:409;I=1;J=1ap:109 2641=1
+
+
+

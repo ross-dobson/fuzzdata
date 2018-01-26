@@ -1,0 +1,11 @@
+v=N
+o=- 6¶3  N  21
+s=-
+t=0r
+m=video 4500 RTP/SAVPF 
+a=PF 
+a=VPF 
+a=cn TP/SAVPF 
+a=PF 
+a=VP
+a=cSA

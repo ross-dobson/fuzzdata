@@ -1,0 +1,13 @@
+v=0
+o=- 67 2 IN IP4 127.0.0.1
+s=-
+t=5
+m=video 9000  1
+a=fingerprint:sha-256 Cu
+a=fing.1
+s=-
+t=5
+m=video 9000  1
+a=fingerprint:sha-256 Cu
+a=fie-256 CD
+x

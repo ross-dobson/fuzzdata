@@ -1,0 +1,9 @@
+v=0
+o=- 66085 2 IN I4 12.1
+s=-
+t=0e 8
+m=audio 9 UDP//RTP/WAVPH 111 01 13L4àÆß× 8 5s
+t=7 e6794#2
+a=maxptime:0:
+m=audi:0E3-
+p:

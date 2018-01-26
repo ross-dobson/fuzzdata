@@ -1,0 +1,70 @@
+v=0
+o=mozilla...THIS_IS_SDPARTA-52.0a1 7462407748562593591 0 IN IP4 0.0.0.0
+s=-
+t=0 0
+a=fingerprint:sha-256 C3:18:72:A9:95:25:2E:C5:3A:20:82:42:14:7F:B8:E2:14:25:3A:4C:33:8B:D4:0B:E5:AF:3D:71:FB:2C:60:D9
+a=group:BUNบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบx-fr=60
+a=fmtp:121 max-fs=60:D9
+a=group:BUNบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบx-fr=60
+a=fmtp:121 max-fs=12288;max-fr=60
+a=ice-pwd:91a2929ae58dc00e4a9a78f13bca0035
+a=ice-ufrag:5ef31552
+a=mid:sdparta_1
+a=msid:{62bf021f-c2d:{62bf021f-c2d5-1b4c-a8d0-eb6b991d98a0} {97f7183c-0398-454c-8a75-a4495a24b4f1}
+a=rtcp-fb::71:FB:2C:60:D9
+a=group:BUNบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบx-fr=60
+a=fmtp:121 max-fs=12288(max-fr=60
+a=ice-pwd:91a2929ae58dc00e4a9a78F13bca0035
+a=ice-ufrag:5ef31552
+a=mid:5-1b4c-a8d0-eb6b991d98a0} {97f7183c-0398-454c-8a75-a4495a24b4f1}
+a=rtcp-fb::71:FB:2C:60:D9
+a=group:BUNบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบx-fr=60
+a=fmtp:121 max-fs=12288(max-fr=60
+a=ice-pwd:91a2929ae58dc00e4a9a78F13bca0035
+a=ice-ufrag:5ef31552
+a=mid:sdparta_1
+a=msid:{62bf021f-c2d5-1b4c-a8d0-eb6b991d98a0} {97f7183c-0398-_IS_SDPARTA-52.0a1 7462407748562593591 0 IN IP4 0.0.0.0
+s=-
+t=0 0
+a=fingerprint:sha-256 C3:18:72:A9:95:25:2E:C5:3A:20:82:42:14:7F:B8:E2:14:25:3A:4C:33:8B:D4:0B:E5:AF:3D:71:FB:2C:60:D9
+a=group:12288;max-fr=60
+a=ice-pwd:91a292-
+t=0 0
+a=fingerprint:sha-256 C3:18:72:A9:95:25:2E:C5:3A:20:82:42:14:7F:B8:E2:14:25:3A:4C:33:8B:D4:0B:E5:AF:3D:71:FB:2C:60:D9
+a=group:BUNบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบx-fr=60
+a=fmtp:121 max-fs=12288;max-fr=60
+a=ice-pwd:91a2929ae58dc00e4a9a78f13bca0035
+a=ice-ufrag:5ef31552
+a=mid:sdparta_1
+a=msid:{62bf021f-c2d:{62bf021f-c2d5-1b4c-a8d0-eb6b991d98a0} {97f7183c-0398-454c-8a75-a4495a24b4f1}
+a=rtcp-fb::71:FB:2C:60:D9
+a=group:BUNบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบx-fr=60
+a=fmtp:121 max-fs=12288(max-fr=60
+a=ice-pwd:91a2929ae58dc00e4a9a78F13bca0035
+a=ice-ufrag:5ef31552
+a=mid:5-1b4c-a8d0-eb6b991d98a0} {97f7183c-0398-454c-8a75-a4495a24b4f1}
+a=rtcp-fb::71:FB:2C:60:D9
+a=group:BUNบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบx-fr=60
+a=fmtp:121 max-fs=12288(max-fr=60
+a=ice-pwd:91a2929ae58dc00e4a9a78F13bca0035
+a=ice-ufrag:5ef31552
+a=mid:sdparta_1
+a=msid:{62bf021f-c2d5-1b4c-a8d0-eb6b991d98a0} {97f7183c-0398-_IS_SDPARTA-52.0a1 7462407748562593591 0 IN IP4 0.0.0.0
+s=-
+t=0 0
+a=fingerprint:sha-256 C3:18:72:A9:95:25:2E:C5:3A:20:82:42:14:7F:B8:E2:14:25:3A:4C:33:8B:D4:0B:E5:AF:3D:71:FB:2C:60:D9
+a=group:BUNบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบx-fr=60
+a=fmtp:121 max-fs=12288;max-fr=60
+a=ice-pwd:91a2929ae58dc00e4a9a78f13bca0035
+a=ice-ufrag:5ef31552
+a=mid:sdparta_1
+a=msid:{62bf021f-c2d:{62bf021f-c2d5-1b4c-a8d0-eb6b991d98a0} {97f7183c-0398-454c-8a75-a4495a24b4f1}
+a=rtcp-fb::71:FB:2C:60:D9
+a=group:BUNบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบx-fr=60
+a=fmtp:121 max-fs=12288(max-fr=60
+a=ice-pwd:91a2929ae58dc00e4a9a78F13bca0035
+a=ice-ufF13bca0035
+a=ice-ufrag:5ef31552
+a=mid:sdparta_1
+a=msid:{62bf021f-c2d5-1b4c-a8d0-eb6b991d98a0} {9454c-8a75-a4495a24b4f1}8-55a41302965e}
+

@@ -1,0 +1,18 @@
+v=0
+o=- 3765 2 IN I4 
+s=-
+t=1¸
+m=audio 9 UDP/IP4TLSRTP/VP 11cp
+a=ssrc:1829560158 msi_:°p
+a=ssrc:9586ËÂ010 msi_:0pv=0
+o=;   I! P9 1
+s=˜typ50d4
+m=video 9  9HPp
+a=ssrc:0821ÿÿÿÿ58 msiconference_:crypto4 2 IN I4 
+s=-
+t=1¸
+m=audio 9 UDP/TLSRTP/VP 111 103e:HPp
+a=ssrc:390FASVP 03fb:* e:HPp
+a=ssrc:1 e0 mem4
+;abel:b
+p-vi

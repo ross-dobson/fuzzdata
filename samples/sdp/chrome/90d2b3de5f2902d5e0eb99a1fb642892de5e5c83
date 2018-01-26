@@ -1,0 +1,10 @@
+v=00
+o=- 5 5 IN IP 
+s=-
+t=00
+m=video 0  5.90t
+a=ssrc-group: 3st
+o=s=-
+t=00
+m=video 0  5.90t
+a=ssrc-group: 3—‹

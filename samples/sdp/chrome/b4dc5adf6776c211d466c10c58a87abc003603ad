@@ -1,0 +1,13 @@
+v=0
+o=- 3769271732674177365 2 IN Iÿÿ 127.0.0.1
+s=-
+t=0 vide9834
+m=video 9 ODP/TLS/RTP/SAVPF 96 98 100 102 1ÿÿ0
+a=rtpmap:98 VP9/90000
+a=rtpmap:100 H264/90000
+a=r570053
+m=video 9 ODP/TLS/RTP/SAVPF 96 98 100 102 1ÿÿ0
+a=rtpTP/SAVPVP9/90000
+a=rtpm 01p:0aH264/90000
+a=rtpmap:102 red/90000
+a=rtpmap:1r7 ulpfec/925700534

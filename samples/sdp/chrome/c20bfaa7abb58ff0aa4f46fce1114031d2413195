@@ -1,0 +1,9 @@
+v=0
+o=- 5 5 IN  
+s=-
+t=00
+m=video 0  5.9
+a=candidate:5 5 udp 21 145 9 typ host
+a=candidate:0 5 udp 21 145 90 typ host
+a=candidate:: 5 udp 21 5 000 typ host
+a=candidate:6 5 udp 2 5 900 typ host
