@@ -47,9 +47,9 @@
         function start() {
             pc1 = new mozRTCPeerConnection();
             pc2 = new mozRTCPeerConnection();
-            navigator.mozGetUserMedia({audio:true, video:true, fake:true}, function(s) {
+            navigator.mediaDevices.getUserMedia({audio:true, video:true, fake:true}, function(s) {
                 pc1.addStream(s);
-                navigator.mozGetUserMedia({audio:true, video:true, fake:true}, function(s) {
+                navigator.mediaDevices.getUserMedia({audio:true, video:true, fake:true}, function(s) {
                   pc2.addStream(s);
                     pc1.createOffer(step1, onFailure);
               }, onFailure);
