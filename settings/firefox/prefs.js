@@ -79,6 +79,7 @@ user_pref("gfx.content.use-native-pushlayer", true);
 
 // Layers
 user_pref("layers.acceleration.force-enabled", true);
+// user_pref("layers.acceleration.disabled", true);
 
 // WebGL
 user_pref("webgl.disabled", false);
@@ -98,6 +99,9 @@ user_pref("webgl.prefer-native-gl", false);
 user_pref("gfx.prefer-mesa-llvmpipe", false);
 user_pref("gl.multithreaded", true);
 user_pref("gfx.blocklist.all", -1);
+user_pref("webgl.enable-privileged-extensions", true);
+user_pref("webgl.enable-draft-extensions", true);
+// user_pref("webgl.angle.force-warp", true);
 
 // WebGL Extensions
 user_pref("webgl.enable-privileged-extensions", true);
@@ -120,7 +124,6 @@ user_pref("dom.imagecapture.enabled", true);
 
 // PDF.js
 user_pref("pdfjs.firstRun", false);
-user_pref("pdfjs.enableWebGL", true);
 user_pref("pdfjs.previousHandler.alwaysAskBeforeHandling", true);
 user_pref("pdfjs.previousHandler.preferredAction", 4);
 
