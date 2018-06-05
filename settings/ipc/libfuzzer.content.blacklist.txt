@@ -1,0 +1,33 @@
+# Nothing good
+PContent::Msg_FinishShutdown
+
+# Does nothing but crash on non-Android builds
+PContent::Msg_GetAndroidSystemInfo
+
+# TODO: null ptr deref
+PContent::Msg_GetClipboard
+PContent::Msg_ClipboardHasType
+PContent::Msg_SetOfflinePermission
+PContent::Msg_PlayEventSound
+PContent::Msg_SyncMessage
+
+# TODO: assert(mValid) when deserializing Endpoint
+PContent::Msg_InitBackground
+
+# TODO: null ptr deref in the middle of glib
+PContent::Msg_UpdateDropEffect
+
+# TODO: calls OtherPid()
+PContent::Msg_CreateAudioIPCConnection
+PContent::Msg_CreateGMPService
+PContent::Msg_BridgeToChildProcess
+PContent::Msg_CreateChildProcess
+PHeapSnapshotTempFileHelper::Msg_OpenHeapSnapshotTempFile
+
+# TODO: leaks all the file descriptors forever and ever
+PContent::Msg_RequestAnonymousTemporaryFile
+
+# TODO: Data consistency assert
+PContent::Msg_UpdateChildKeyedScalars
+PContent::Msg_UpdateChildScalars
+
