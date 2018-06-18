@@ -4,6 +4,9 @@ PContent::Msg_FinishShutdown
 # Does nothing but crash on non-Android builds
 PContent::Msg_GetAndroidSystemInfo
 
+# TODO: Calls gtk_init which calls exit
+PContent::Msg_GetGraphicsDeviceInitData
+
 # TODO: null ptr deref
 PContent::Msg_GetClipboard
 PContent::Msg_ClipboardHasType
@@ -23,11 +26,7 @@ PContent::Msg_CreateGMPService
 PContent::Msg_BridgeToChildProcess
 PContent::Msg_CreateChildProcess
 PHeapSnapshotTempFileHelper::Msg_OpenHeapSnapshotTempFile
+PPresentation::Msg_RegisterSessionHandler
 
 # TODO: leaks all the file descriptors forever and ever
 PContent::Msg_RequestAnonymousTemporaryFile
-
-# TODO: Data consistency assert
-PContent::Msg_UpdateChildKeyedScalars
-PContent::Msg_UpdateChildScalars
-
