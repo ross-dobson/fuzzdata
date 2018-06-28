@@ -27,6 +27,7 @@ PContent::Msg_BridgeToChildProcess
 PContent::Msg_CreateChildProcess
 PHeapSnapshotTempFileHelper::Msg_OpenHeapSnapshotTempFile
 PPresentation::Msg_RegisterSessionHandler
+PPresentation::Msg_PPresentationRequestConstructor
 
 # TODO: leaks all the file descriptors forever and ever
 PContent::Msg_RequestAnonymousTemporaryFile
