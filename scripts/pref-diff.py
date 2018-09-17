@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-# Todo:
-# - sort prefs by value to see what prefs are set to false more easily? you could grep
-# - sort prefs by key to make easier to read
-# - randomly set boolean prefs
-# - show what prefs of file2 are not in file1 ?
 import os
 import re
 import sys
