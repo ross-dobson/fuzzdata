@@ -37,6 +37,7 @@ user_pref("browser.safebrowsing.malware.enabled", false);
 user_pref("browser.safebrowsing.phishing.enabled", false);
 user_pref("browser.search.geoip.url", "");
 user_pref("browser.search.suggest.enabled", false); // domfuzz
+user_pref("browser.search.suggest.prompted", true); // needed on Android
 user_pref("browser.search.update", false);
 user_pref("browser.sessionhistory.max_entries", 0);
 user_pref("browser.sessionhistory.max_total_viewers", 0);
@@ -70,6 +71,9 @@ user_pref("devtools.selfxss.count", 999);
 user_pref("dom.archivereader.enabled", true);
 user_pref("dom.allow_scripts_to_close_windows", true);
 user_pref("dom.always_stop_slow_scripts", true); // domfuzz
+user_pref("dom.disable_open_during_load", false); // Popup blocker behavior - Required for Grizzly harness
+user_pref("dom.disable_window_move_resize", false);
+user_pref("dom.disable_window_flip", false); // Determines whether windows can be focus()ed via non-chrome JavaScript
 user_pref("dom.disable_window_status_change", false); // text in the browser status bar may be set by non-chrome JavaScript
 user_pref("dom.datastore.enabled", true);
 user_pref("dom.experimental_forms", true);
