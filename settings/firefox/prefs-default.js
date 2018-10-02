@@ -137,6 +137,7 @@ user_pref("image.high_quality_downscaling.enabled", false);
 user_pref("image.high_quality_downscaling.min_factor", 1000);
 user_pref("image.cache.size", 0);
 user_pref("image.multithreaded_decoding.limit", 1);
+user_pref("enable dom.indexedDB.experimental", true);
 user_pref("javascript.options.gczeal", 0); // domfuzz
 user_pref("layers.acceleration.force-enabled", true);
 user_pref("layout.accessiblecaret.enabled", true); // normally enabled on devices with touchscreens (emilio)
