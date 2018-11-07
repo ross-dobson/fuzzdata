@@ -36,6 +36,7 @@ user_pref("browser.safebrowsing.downloads.remote.enabled", false);
 user_pref("browser.safebrowsing.malware.enabled", false);
 user_pref("browser.safebrowsing.phishing.enabled", false);
 user_pref("browser.search.geoip.url", "");
+user_pref("browser.search.region", "US"); // Required for WebPayments
 user_pref("browser.search.suggest.enabled", false); // domfuzz
 user_pref("browser.search.suggest.prompted", true); // needed on Android
 user_pref("browser.search.update", false);
