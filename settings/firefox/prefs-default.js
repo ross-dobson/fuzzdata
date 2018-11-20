@@ -118,6 +118,7 @@ user_pref("extensions.update.enabled", false);
 user_pref("extensions.update.notifyUser", false); // domfuzz
 user_pref("fuzzing.enabled", true); // support for FuzzingFunctions
 user_pref("full-screen-api.allow-trusted-requests-only", false);
+user_pref("full-screen-api.warning.timeout", 500);
 user_pref("gecko.handlerService.allowRegisterFromDifferentHost", true);
 user_pref("general.useragent.updates.enabled", false); // domfuzz
 user_pref("general.warnOnAboutConfig", false);
@@ -145,6 +146,7 @@ user_pref("layers.acceleration.force-enabled", true);
 user_pref("layout.accessiblecaret.enabled", true); // normally enabled on devices with touchscreens (emilio)
 user_pref("layout.css.column-span.enabled", false); // requested in bug 1491723 (temporarily disabled)
 user_pref("layout.css.font-variations.enabled", true);
+user_pref("layout.css.individual-transform.enabled", true); // requested in bug 1507647
 user_pref("layout.css.ruby.enabled", true);
 user_pref("layout.css.vertical-text.enabled", true);
 user_pref("layout.debug.enable_data_xbl", true);
@@ -153,6 +155,8 @@ user_pref("media.apple.mp3.enabled", true);
 user_pref("media.apple.mp4.enabled", true);
 user_pref("media.audio_data.enabled", true);
 user_pref("media.autoplay.ask-permission", false);
+user_pref("media.autoplay.default", 0); // 0=Allowed, 1=Blocked, 2=Prompt
+user_pref("media.autoplay.enabled.user-gestures-needed", false);
 user_pref("media.eme.enabled", true);
 user_pref("media.getusermedia.screensharing.allowed_domains", "localhost");
 user_pref("media.getusermedia.browser.enabled", true);
