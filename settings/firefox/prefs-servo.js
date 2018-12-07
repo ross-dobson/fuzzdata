@@ -90,7 +90,7 @@ user_pref("extensions.update.notifyUser", false); // domfuzz
 user_pref("general.useragent.updates.enabled", false); // domfuzz
 user_pref("general.warnOnAboutConfig", false);
 user_pref("geo.enabled", false);
-user_pref("gfx.canvas.azure.accelerated", true);
+//user_pref("gfx.canvas.azure.accelerated", true); // No value in fuzzing this anymore (lsalzman)
 user_pref("gfx.color_management.mode", 2); // domfuzz
 user_pref("image.cache.size", 0);
 user_pref("image.multithreaded_decoding.limit", 1);

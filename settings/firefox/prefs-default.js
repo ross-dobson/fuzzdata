@@ -124,7 +124,7 @@ user_pref("general.useragent.updates.enabled", false); // domfuzz
 user_pref("general.warnOnAboutConfig", false);
 user_pref("geo.enabled", false);
 //user_pref("gfx.blocklist.all", -1); // force unblock gfx cards
-user_pref("gfx.canvas.azure.accelerated", true);
+//user_pref("gfx.canvas.azure.accelerated", true); // No value in fuzzing this anymore (lsalzman)
 user_pref("gfx.color_management.enablev4", true);
 user_pref("gfx.color_management.mode", 1); // 0=off, 1=full, 2=tagged images only
 user_pref("gfx.content.use-native-pushlayer", true);
