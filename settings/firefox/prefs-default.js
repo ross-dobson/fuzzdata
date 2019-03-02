@@ -157,6 +157,8 @@ user_pref("media.audio_data.enabled", true);
 user_pref("media.autoplay.ask-permission", false);
 user_pref("media.autoplay.default", 0); // 0=Allowed, 1=Blocked, 2=Prompt
 user_pref("media.autoplay.enabled.user-gestures-needed", false);
+user_pref("media.av1.enabled", true);
+user_pref("media.av1.use-dav1d", true);
 user_pref("media.eme.enabled", true);
 user_pref("media.getusermedia.screensharing.allowed_domains", "localhost");
 user_pref("media.getusermedia.browser.enabled", true);
