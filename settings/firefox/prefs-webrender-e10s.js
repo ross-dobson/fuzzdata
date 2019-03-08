@@ -155,6 +155,7 @@ user_pref("media.audio_data.enabled", true);
 user_pref("media.autoplay.ask-permission", false);
 user_pref("media.autoplay.default", 0); // 0=Allowed, 1=Blocked, 2=Prompt
 user_pref("media.autoplay.enabled.user-gestures-needed", false);
+user_pref("media.cubeb.sandbox", false); // Remove once bug 1454782 is fixed
 user_pref("media.eme.enabled", true);
 user_pref("media.getusermedia.screensharing.allowed_domains", "localhost");
 user_pref("media.getusermedia.browser.enabled", true);

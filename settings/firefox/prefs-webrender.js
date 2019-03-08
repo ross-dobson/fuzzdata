@@ -106,6 +106,7 @@ user_pref("lightweightThemes.update.enabled", false);
 user_pref("media.apple.mp3.enabled", true);
 user_pref("media.apple.mp4.enabled", true);
 user_pref("media.audio_data.enabled", true);
+user_pref("media.cubeb.sandbox", false); // Remove once bug 1454782 is fixed
 //user_pref("media.autoplay.enabled", false);
 //user_pref("media.forcestereo.enabled", true);
 user_pref("media.fragmented-mp4.enabled", true);
