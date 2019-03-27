@@ -61,6 +61,7 @@ user_pref("canvas.hitregions.enabled", true);
 // user_pref("canvas.imagebitmap_extensions.enabled", true);
 user_pref("captivedetect.canonicalURL", "");
 user_pref("clipboard.autocopy", true); // Ensures pref is enabled on Windows and OSX
+user_pref("csp.skip_about_page_has_csp_assert", true); // suggested in bug 1503956 to avoid FPs
 user_pref("datareporting.healthreport.service.enabled", false);
 user_pref("datareporting.healthreport.service.firstRun", false);
 user_pref("datareporting.healthreport.uploadEnabled", false);
@@ -137,7 +138,6 @@ user_pref("image.high_quality_downscaling.min_factor", 1000);
 user_pref("image.cache.size", 0);
 user_pref("image.multithreaded_decoding.limit", 1);
 user_pref("image.webp.enabled", true);
-user_pref("enable dom.indexedDB.experimental", true);
 user_pref("javascript.options.gczeal", 0); // domfuzz
 user_pref("layers.acceleration.force-enabled", true);
 user_pref("layout.accessiblecaret.enabled", true); // normally enabled on devices with touchscreens (emilio)
@@ -157,7 +157,6 @@ user_pref("media.autoplay.default", 0); // 0=Allowed, 1=Blocked, 2=Prompt
 user_pref("media.autoplay.enabled.user-gestures-needed", false);
 user_pref("media.av1.enabled", true);
 user_pref("media.av1.use-dav1d", true);
-user_pref("media.cubeb.sandbox", false); // Remove once bug 1454782 is fixed
 user_pref("media.eme.enabled", true);
 user_pref("media.getusermedia.screensharing.allowed_domains", "localhost");
 user_pref("media.getusermedia.browser.enabled", true);
