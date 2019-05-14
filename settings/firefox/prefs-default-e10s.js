@@ -145,6 +145,7 @@ user_pref("layout.css.column-span.enabled", true); // requested in bug 1491723
 user_pref("layout.css.font-variations.enabled", true);
 user_pref("layout.css.individual-transform.enabled", true); // requested in bug 1507647
 user_pref("layout.css.moz-document.content.enabled", true); // Enable @-moz-document
+user_pref("layout.css.resizeobserver.enabled", true); // Enable resize observer
 user_pref("layout.css.ruby.enabled", true);
 user_pref("layout.css.vertical-text.enabled", true);
 user_pref("layout.debug.enable_data_xbl", true);
