@@ -128,6 +128,7 @@ user_pref("gfx.color_management.mode", 1); // 0=off, 1=full, 2=tagged images onl
 user_pref("gfx.content.use-native-pushlayer", true);
 user_pref("gfx.downloadable_fonts.keep_variation_tables", true);
 user_pref("gfx.downloadable_fonts.otl_validation", false); // required for some demo fonts
+user_pref("gfx.e10s.font-list.shared", true); // bug 1514869 (requested by jkew)
 user_pref("gfx.offscreencanvas.enabled", true);
 user_pref("gfx.prefer-mesa-llvmpipe", false);
 user_pref("html5.offmainthread", true);
