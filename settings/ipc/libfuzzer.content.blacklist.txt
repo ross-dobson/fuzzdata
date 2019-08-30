@@ -31,3 +31,6 @@ PPresentation::Msg_PPresentationRequestConstructor
 
 # TODO: leaks all the file descriptors forever and ever
 PContent::Msg_RequestAnonymousTemporaryFile
+
+# Launch: assert(), invoking history before profile exists (1577581)
+PContent::Msg_StartVisitedQuery
