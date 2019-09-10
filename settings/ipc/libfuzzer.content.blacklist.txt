@@ -34,3 +34,7 @@ PContent::Msg_RequestAnonymousTemporaryFile
 
 # Launch: assert(), invoking history before profile exists (1577581)
 PContent::Msg_StartVisitedQuery
+
+# Launch: crash (1577578)
+PContent::Msg_SetupFamilyCharMap
+
