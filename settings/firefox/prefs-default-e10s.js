@@ -73,6 +73,7 @@ user_pref("devtools.selfxss.count", 999);
 user_pref("dom.archivereader.enabled", true);
 user_pref("dom.allow_scripts_to_close_windows", true);
 user_pref("dom.always_stop_slow_scripts", true); // domfuzz
+user_pref("dom.audioworklet.enabled", true);
 user_pref("dom.disable_open_during_load", false); // Popup blocker behavior - Required for Grizzly harness
 user_pref("dom.disable_window_move_resize", false);
 user_pref("dom.disable_window_flip", false); // Determines whether windows can be focus()ed via non-chrome JavaScript
@@ -94,6 +95,7 @@ user_pref("dom.max_child_script_run_time", 0);
 user_pref("dom.max_script_run_time", 0);
 user_pref("dom.min_background_timeout_value", 4);
 user_pref("dom.payments.request.enabled", true);
+user_pref("dom.paintWorklet.enabled", true);
 user_pref("dom.presentation.enabled", true);
 user_pref("dom.send_after_paint_to_content", true); // needed when using IMGCorpman with MozAfterPaint event
 user_pref("dom.server-events.enabled", true);
@@ -104,6 +106,7 @@ user_pref("dom.vr.puppet.enabled", true);
 user_pref("dom.vr.require-gesture", false);
 user_pref("dom.vr.poseprediction.enabled", false);
 user_pref("dom.webcomponents.enabled", true);
+user_pref("dom.worklet.enabled", true);
 user_pref("extensions.allow-non-mpc-extensions", true); // Required to load fuzzPriv
 user_pref("extensions.autoDisableScopes", 0); // domfuzz
 user_pref("extensions.blocklist.enabled", false);
