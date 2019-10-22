@@ -104,7 +104,8 @@ user_pref("dom.send_after_paint_to_content", true); // needed when using IMGCorp
 user_pref("dom.server-events.enabled", true);
 user_pref("dom.successive_dialog_time_limit", 0); // domfuzz
 user_pref("dom.vr.enabled", true);
-user_pref("dom.vr.test.enabled", true);
+user_pref("dom.vr.external.notdetected.timeout", 0);
+user_pref("dom.vr.external.quit.timeout", 0);
 user_pref("dom.vr.puppet.enabled", true);
 user_pref("dom.vr.require-gesture", false);
 user_pref("dom.vr.poseprediction.enabled", false);
