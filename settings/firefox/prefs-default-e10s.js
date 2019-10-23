@@ -231,6 +231,7 @@ user_pref("network.proxy.type", 2); // domfuzz
 user_pref("network.proxy.use_direct_on_fail", false); // domfuzz
 user_pref("nglayout.debug.disable_xul_cache", false);
 user_pref("permissions.default.camera", 1);
+user_pref("permissions.default.geo", 1);
 user_pref("permissions.default.microphone", 1);
 user_pref("pdfium.enabled", true);
 user_pref("pdfjs.enableWebGL", true);
