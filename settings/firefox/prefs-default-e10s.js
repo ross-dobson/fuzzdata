@@ -94,8 +94,8 @@ user_pref("dom.max_chrome_script_run_time", 0);
 user_pref("dom.max_child_script_run_time", 0);
 user_pref("dom.max_script_run_time", 0);
 user_pref("dom.min_background_timeout_value", 4);
-user_pref("dom.payments.request.enabled", true);
 user_pref("dom.paintWorklet.enabled", true);
+user_pref("dom.payments.request.enabled", true);
 user_pref("dom.presentation.enabled", true);
 user_pref("dom.send_after_paint_to_content", true); // needed when using IMGCorpman with MozAfterPaint event
 user_pref("dom.server-events.enabled", true);
