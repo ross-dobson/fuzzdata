@@ -143,6 +143,7 @@ user_pref("image.high_quality_downscaling.min_factor", 1000);
 user_pref("image.cache.size", 0);
 user_pref("image.multithreaded_decoding.limit", 1);
 user_pref("image.webp.enabled", true);
+user_pref("javascript.options.blinterp", false); // remove once bug 1599923 is fixed
 user_pref("javascript.options.gczeal", 0); // domfuzz
 user_pref("layers.acceleration.force-enabled", true);
 user_pref("layout.accessiblecaret.enabled", true); // normally enabled on devices with touchscreens (emilio)
