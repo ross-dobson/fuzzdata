@@ -72,8 +72,7 @@
 "source"
 "style"
 "track"
-+
-−"video"
+"video"
 
 # sandboxing flags
 "allow-forms"
