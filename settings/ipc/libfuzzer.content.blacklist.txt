@@ -34,7 +34,10 @@ PContent::Msg_RequestAnonymousTemporaryFile
 
 # Launch: assert(), invoking history before profile exists (1577581)
 PContent::Msg_StartVisitedQuery
+PContent::Msg_StartVisitedQueries
 
 # Launch: crash (1577578)
 PContent::Msg_SetupFamilyCharMap
 
+# Launch: Assertion failure: fontList (gfxPlatformFontList not initialized?) (1605525)
+PContent::Msg_SetCharacterMap
