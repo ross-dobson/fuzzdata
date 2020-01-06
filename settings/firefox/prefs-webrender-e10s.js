@@ -144,7 +144,6 @@ user_pref("javascript.options.gczeal", 0); // domfuzz
 user_pref("javascript.options.parser_defer_allocation", true);  // TODO: this should be randomly enabled
 user_pref("layers.acceleration.force-enabled", true);
 user_pref("layout.accessiblecaret.enabled", true); // normally enabled on devices with touchscreens (emilio)
-user_pref("layout.css.column-span.enabled", false); // requested in bug 1491723 (temporarily disabled)
 user_pref("layout.css.font-variations.enabled", true);
 user_pref("layout.css.individual-transform.enabled", true); // requested in bug 1507647
 user_pref("layout.css.ruby.enabled", true);

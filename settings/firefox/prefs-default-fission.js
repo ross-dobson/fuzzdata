@@ -147,7 +147,6 @@ user_pref("image.webp.enabled", true);
 user_pref("javascript.options.gczeal", 0); // domfuzz
 user_pref("layers.acceleration.force-enabled", true);
 user_pref("layout.accessiblecaret.enabled", true); // normally enabled on devices with touchscreens (emilio)
-user_pref("layout.css.column-span.enabled", true); // requested in bug 1491723
 user_pref("layout.css.font-variations.enabled", true);
 user_pref("layout.css.individual-transform.enabled", true); // requested in bug 1507647
 user_pref("layout.css.moz-document.content.enabled", true); // Enable @-moz-document
