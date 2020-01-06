@@ -147,7 +147,6 @@ user_pref("layout.accessiblecaret.enabled", true); // normally enabled on device
 user_pref("layout.css.font-variations.enabled", true);
 user_pref("layout.css.individual-transform.enabled", true); // requested in bug 1507647
 user_pref("layout.css.ruby.enabled", true);
-user_pref("layout.css.vertical-text.enabled", true);
 user_pref("layout.debug.enable_data_xbl", true);
 user_pref("lightweightThemes.update.enabled", false);
 user_pref("media.apple.mp3.enabled", true);

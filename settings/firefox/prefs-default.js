@@ -154,7 +154,6 @@ user_pref("layout.css.individual-transform.enabled", true); // requested in bug 
 user_pref("layout.css.moz-document.content.enabled", true); // Enable @-moz-document
 user_pref("layout.css.resizeobserver.enabled", true); // Enable resize observer
 user_pref("layout.css.ruby.enabled", true);
-user_pref("layout.css.vertical-text.enabled", true);
 user_pref("layout.debug.enable_data_xbl", true);
 user_pref("lightweightThemes.update.enabled", false);
 user_pref("media.apple.mp3.enabled", true);

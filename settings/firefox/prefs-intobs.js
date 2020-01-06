@@ -98,7 +98,6 @@ user_pref("canvas.path.enabled", true);
 user_pref("layers.acceleration.disabled", true);
 user_pref("layers.acceleration.force-enabled", true);
 user_pref("layout.css.ruby.enabled", true);
-user_pref("layout.css.vertical-text.enabled", true);
 user_pref("layout.debug.enable_data_xbl", true);
 user_pref("layout.spammy_warnings.enabled", false); // domfuzz
 user_pref("lightweightThemes.update.enabled", false);
