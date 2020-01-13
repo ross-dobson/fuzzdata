@@ -128,7 +128,7 @@ user_pref("gfx.content.use-native-pushlayer", true);
 user_pref("gfx.downloadable_fonts.keep_variation_tables", true);
 user_pref("gfx.downloadable_fonts.otl_validation", false); // required for some demo fonts
 user_pref("gfx.e10s.font-list.shared", true); // bug 1514869 (requested by jkew)
-user_pref("gfx.offscreencanvas.enabled", true);
+user_pref("gfx.offscreencanvas.enabled", false);
 user_pref("gfx.prefer-mesa-llvmpipe", false);
 user_pref("html5.offmainthread", true);
 user_pref("image.animated.decode-on-demand.batch-size", 1);
