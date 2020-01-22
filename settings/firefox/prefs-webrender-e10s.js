@@ -143,6 +143,7 @@ user_pref("javascript.options.blinterp", false);  // remove once bug 1599923 is 
 user_pref("javascript.options.gczeal", 0); // domfuzz
 user_pref("layers.acceleration.force-enabled", true);
 user_pref("layout.accessiblecaret.enabled", true); // normally enabled on devices with touchscreens (emilio)
+user_pref("layout.css.constructable-stylesheets.enabled", true); // requested in bug 1609994
 user_pref("layout.css.font-variations.enabled", true);
 user_pref("layout.css.individual-transform.enabled", true); // requested in bug 1507647
 user_pref("layout.debug.enable_data_xbl", true);
