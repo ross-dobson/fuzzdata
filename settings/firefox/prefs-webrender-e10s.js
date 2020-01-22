@@ -141,7 +141,6 @@ user_pref("image.webp.enabled", true);
 user_pref("enable dom.indexedDB.experimental", true);
 user_pref("javascript.options.blinterp", false);  // remove once bug 1599923 is fixed
 user_pref("javascript.options.gczeal", 0); // domfuzz
-user_pref("javascript.options.parser_defer_allocation", true);  // TODO: this should be randomly enabled
 user_pref("layers.acceleration.force-enabled", true);
 user_pref("layout.accessiblecaret.enabled", true); // normally enabled on devices with touchscreens (emilio)
 user_pref("layout.css.font-variations.enabled", true);
