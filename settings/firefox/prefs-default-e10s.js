@@ -97,6 +97,7 @@ user_pref("dom.min_background_timeout_value", 4);
 user_pref("dom.paintWorklet.enabled", true);
 user_pref("dom.payments.request.enabled", true);
 user_pref("dom.presentation.enabled", true);
+user_pref("dom.push.testing.ignorePermission", true);
 user_pref("dom.send_after_paint_to_content", true); // needed when using IMGCorpman with MozAfterPaint event
 user_pref("dom.server-events.enabled", true);
 user_pref("dom.successive_dialog_time_limit", 0); // domfuzz
@@ -227,6 +228,8 @@ user_pref(
 user_pref("network.proxy.share_proxy_settings", true); // domfuzz
 user_pref("network.proxy.type", 2); // domfuzz
 user_pref("network.proxy.use_direct_on_fail", false); // domfuzz
+user_pref("notification.prompt.testing", true);
+user_pref("notification.prompt.testing.allow", true);
 user_pref("nglayout.debug.disable_xul_cache", false);
 user_pref("permissions.default.camera", 1);
 user_pref("permissions.default.geo", 1);
