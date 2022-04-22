@@ -4,3 +4,4 @@ Sources:
 
 * MozillaSecurity/fuzzdata
 * google/afl
+* https://lcamtuf.coredump.cx/afl/demo/
